@@ -72,7 +72,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                    <h2 className="title">{mainpitch.title}</h2>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
@@ -89,19 +89,19 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
+                    <Link className="btn" to="/teenused">
+                      Vaata kõiki teenuseid
                     </Link>
                   </div>
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Viimased müügikuulutused
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
+                    <Link className="btn" to="/kuulutus">
+                      Vaata lisaks
                     </Link>
                   </div>
                 </div>
