@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: KASUTATUD AUTODE MÜÜK
 image: /img/car-lamborghini-race-car-18296.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Kasutatud autode müük Valgas.
+subheading: Sõidukite Euroopast tellimine ja trantsport. Komisjonimüük.
 mainpitch:
-  title: Why Kaldi
+  title: Miks valida ESC Grupp OÜ
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
+    ülevaatuse.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Lisaks lai valik teisi teenuseid - sõidukite tellimine ja trantsport
+  Euroopast. Komisjonimüük kodulehel ja Valga autoplatsil aadressil Viljandi mnt
+  25. Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +65,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
