@@ -36,6 +36,15 @@ intro:
         Sõidukite Euroopast transpordi teenus. Veame nii sõiduautosid,
         väikebusse, veoautosid ja ka ehitustehnikat. Sobilik kasutada koos
         tellimise teenusega.
+    - image: /img/asphalt-auto-car-327236.jpg
+      text: >-
+        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
+        müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
+        Viljandi mnt 25 ja abi auto ostu-müügi lepingu sõlmimisel.
+    - image: /img/automobiles-automotives-car-show-235226.jpg
+      text: >-
+        Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
+        meile anda - selle võrra väheneb uue auto ostuhind.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
