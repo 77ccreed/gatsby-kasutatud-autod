@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: 'meist-page'
 path: /meist
 title: About our values
 ---
