@@ -49,7 +49,7 @@ class BlogRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    Loe edasi →
                   </Link>
                 </p>
               </article>
@@ -78,7 +78,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 80)
               id
               fields {
                 slug
@@ -86,7 +86,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
+                date(formatString: "DD. MM. YYYY.")
                 featuredpost
                 featuredimage {
                   childImageSharp {
