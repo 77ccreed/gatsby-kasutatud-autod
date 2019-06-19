@@ -1,42 +1,43 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Pakutavad teenused
 image: /img/automotive-black-coupe-80465.jpg
-heading: Great coffee with a conscience
+heading: Sõidukite müük ja autorent
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Lisaks pakume sõidukite tellimise ja Euroopast trantspordi teenust.
+  Müügikuulutuste lisamist kodulehele ja komisjonimüüki autoplatsil.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/asphalt-auto-automobile-1007410.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
+        müügieelse ülevaatuse. Pakume igakülgset dokumentide vormistamisel.
+    - image: /img/asphalt-audi-automobile-38637.jpg
+      text: >-
+        Kvaliteetne ning soodsa hinnaga lühi- ja pikaajaline autorenditeenus.
+        Rendiautod on heas tehnilises seisukorras ja hästi hooldatud.
+        Liikluskindlustus ja standardkasko sisaldub hinnas, tellimisel saate
+        valida endale sobiva täiendava kindlustuskaitse või vähendatud
+        omavastutusega kindlustuspaketi.
+    - image: /img/audi-automobile-car-lights-1149831.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Sõidukite tellimise teenust. Võimalik on tellida nii sõiduauto,
+        väikebuss, veoauto kui ka ehitustehnikat. Teostame põhjaliku sõiduki ja
+        omaniku tausta kontroll.
+    - image: /img/automobile-automotive-car-638479.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Sõidukite Euroopast transpordi teenus. Veame nii sõiduautosid,
+        väikebusse, veoautosid ja ka ehitustehnikat. Sobilik kasutada koos
+        tellimise teenusega.
+    - image: /img/asphalt-auto-car-327236.jpg
+      text: >-
+        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
+        müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
+        Viljandi mnt 25 ja abi auto ostu-müügi lepingu sõlmimisel.
+    - image: /img/automobiles-automotives-car-show-235226.jpg
+      text: >-
+        Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
+        meile anda - selle võrra väheneb uue auto ostuhind.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -44,58 +45,60 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Liising ja autolaen.
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kui soovite sõidukit liisingu või laenuga osta, pöörduge meie
+    müügikonsultandi poole, kes leiab Teile parima lahenduse. Aitame klienti
+    sobiva liisingu või laenupartneri valmisel, taotluse esitamisega ning
+    nõustame tuginedes aastatepikkusele kogemusele.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/asphalt-audi-automobile-38637.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/asphalt-auto-automobile-1007410.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/automotive-black-coupe-80465.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: – Einar Peterson
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Kasutatud autot on kindlam osta müügiplatsilt. Firmast ostes on alati
+      lihtsam murega tagasi pöörduda, eraisikult ostes pole tihtipeale hiljem
+      enam kuhugi minna.
+  - author: – Einar Peterson
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Aitame registreerimisel ja kui auto ostul vaja finantseeringut mõnest
+      pangast või liisingettevõttest, siis ka sellega.
+full_image: /img/automobile-automotive-car-638479.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Soodne autorent.
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Kvaliteetne ning soodsa hinnaga autorenditeenus. Rendiautodel jälgitakse
+    pidevalt tehnilist seisukorda ja teostatakse hooldust. Liikluskindlustus ja
+    standardkasko sisaldub hinnas, tellimisel saate valida endale sobiva
+    täiendava kindlustuskaitse või vähendatud omavastutusega kindlustuspaketi.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
-      price: '20'
+      plan: Lühiajaline autorent.
+      price: '50'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
-      price: '90'
+      plan: Keskmise pikkusega rent.
+      price: '200'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
-      price: '200'
+      plan: Pikaajaline autorent.
+      price: '670'
 ---
 
