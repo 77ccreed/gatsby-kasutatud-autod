@@ -101,7 +101,7 @@ export const IndexPageTemplate = ({
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/kuulutus">
-                      Vaata lisaks
+                      Vaata kõiki müügikuulutusi
                     </Link>
                   </div>
                 </div>
