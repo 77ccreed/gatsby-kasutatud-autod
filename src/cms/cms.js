@@ -11,6 +11,6 @@ import IndexPagePreview from './preview-templates/IndexPagePreview'
 //CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate('index', IndexPagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate('meist', AboutPagePreview)
+CMS.registerPreviewTemplate('teenused', ProductPagePreview)
+CMS.registerPreviewTemplate('kuulutused', BlogPostPreview)
