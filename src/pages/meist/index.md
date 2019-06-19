@@ -1,19 +1,39 @@
 ---
-templateKey: 'meist-page'
-path: /meist
-title: About our values
+templateKey: meist-page
+title: Millega me tegeleme.
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Kasutatud autode müük Valgas.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Oleme tegevad olnud rohkem kui 20 aastat ja näinud igasugu aegu. Selle aja jooksul on kasutatud autode müük Valgas ja Eestis laiemalt väga palju muutunud. Peale taasiseseisvumist polnud Eesti inimestel piisavalt raha ja võimalusi, et osta uusi autosid - kasutatud autode müük õitses ja oli väga glamuurne. Valga oma soodsa asukohaga oli suur automüügikeskus mitmete autoaedade ja paljude müüjatega**.**
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### ****
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Aastate jooksul on konkurents tihenenud ja paljud müüjad on turult kadunud. Inimesed on üha jõukamaks muutunud ja soetavad rohkem ka uusi autosid. Piirid on avanenud ja riigisisesele konkurentsile on lisandunud konkurendid üle Euroopa. Palju on turgu mõjutanud interneti ja sotsiaalmeedia lai levik.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+### Meie edu võti.
+
+### Oleme konkurentsivõimelised ka tänasel päeval. Pakume kvaliteetset teenust järjest tiheneva konkurentsi tingimustes. Edu võti on olnud kohaneda muutuva turuga - meil on oma autoaed, kus pakume laia valikut teenuseid alates müügist kuni remondini, et kõik oleks kättesaadav ühest kohast. Samas tahame ja suudame pakkuda kvaliteetset teenust klientidele üle Eesti.
+
+### 
+
+### Meie kliendid.
+
+### Peamiselt oleme keskendunud eraisikute ja väiksemate ettevõtete teenindamisele. Aastate jooksul on välja kujunenud lai kliendibaas, kellele soovime pakkuda head teenindust ja kvaliteetset teenust ka edaspidi. Ostjaid on nii Valgast, Viljandist kui ka Tartust. Palju autosid müüme ka Tallinnasse ja Harjumaale.
+
+### 
+
+### Meie tulevik
+
+### Konkureerides teiste kasutatud ja uute autode müüjatega Valgas ja laiemalt Eestis ning ka Euroopas on võimalik ellu jääda üksnes muututes paremaks koos muutuva turuga. Palju on muutunud seoses interneti ja sotsiaalmeedia laia levikuga. Riigipiiride kadumisega ja Euroopa Liiduga.
+
+### 
+
+### Motosport.
+
+### Läbi aastate oleme aktiivselt panustanud motosporti läbi MTÜ Valga Motoklubi, mille eesmärgiks on noorte ja täiskasvanute vaba aja sisustamine motospordiga. Klubi omab Vilaski krossirada, kus korraldatakse treeninguid ja võistluseid.
+
+### 
+
+### Koos kohaliku omavalitsuse, teiste kohalike spordiklubide ja ettevõtetega panustame pikalt kasutuseta seisnud Jaanikese motokompleksi taas inimestele kättesaadavaks tegemisse. Rada Valga lähedal Jaanikese orus peetakse üheks Euroopa paremaks ja omab suurt potensiaali võistlus- ja treeningpaigana.
