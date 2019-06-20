@@ -5,7 +5,7 @@ image: /img/car-lamborghini-race-car-18296.jpg
 heading: Kasutatud autode müük Valgas.
 subheading: Sõidukite Euroopast tellimine ja trantsport. Komisjonimüük.
 mainpitch:
-  title: Miks valida ESC Grupp OÜ
+  title: ESC Grupp OÜ
   description: >
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
