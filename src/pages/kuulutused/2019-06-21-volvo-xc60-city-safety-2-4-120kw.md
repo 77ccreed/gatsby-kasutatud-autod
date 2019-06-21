@@ -12,19 +12,17 @@ tags:
   - automaat
   - diisel
 ---
-
-
 ![Volvo](/img/126041280.jpg "Volvo")
 
-* **Liik:	maastur** 
-* **Esmane reg:	2009** 
-* **Mootor:	2.4 (120 kW)** 
-* **Kütus:	diisel** 
-* **Läbisõidumõõdiku näit:	240 000 km · hooldusraamat** 
-* **Vedav sild:	nelikvedu** 
-* **Käigukast:	automaat** 
-* **Värvus:	tumehall met.** 
-* **Reg. number	769BSG** 
+* **Liik:	maastur** 
+* **Esmane reg:	2009** 
+* **Mootor:	2.4 (120 kW)** 
+* **Kütus:	diisel** 
+* **Läbisõidumõõdiku näit:	240 000 km · hooldusraamat** 
+* **Vedav sild:	nelikvedu** 
+* **Käigukast:	automaat** 
+* **Värvus:	tumehall met.** 
+* **Reg. number	769BSG** 
 * **VIN-kood:	YV1DZ694692019217** 
 
 ## VARUSTUS
@@ -151,5 +149,5 @@ tags:
 
 * Eestis arvel, ülevaatus kuni 11.2020
 * Toodud riigist: Belgia
-* Sõiduki asukoht: Eesti
+* Sõiduki asukoht: Eesti
 * Kõik hooldused tehtud. Hammasrihm ja sinna juurde kuuluv vahetatud. Rikkaliku varustusega, Täishinnaga kaasa uued talverehvid.. Hooldusraamat.
