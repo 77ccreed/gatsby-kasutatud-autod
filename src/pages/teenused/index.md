@@ -101,4 +101,3 @@ pricing:
       plan: Pikaajaline autorent.
       price: '670'
 ---
-
