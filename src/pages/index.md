@@ -2,7 +2,7 @@
 templateKey: index-page
 title: KASUTATUD AUTODE MÜÜK
 image: /img/car-lamborghini-race-car-18296.jpg
-heading: Kasutatud autode müük Valgas.
+heading: Kasutatud autode müük Valgas autoplatsil ja kodulehel.
 subheading: Sõidukite Euroopast tellimine ja trantsport. Komisjonimüük.
 mainpitch:
   title: ESC Grupp OÜ
@@ -12,13 +12,19 @@ mainpitch:
 description: >-
   Lisaks lai valik teisi teenuseid - sõidukite tellimine ja trantsport
   Euroopast. Komisjonimüük kodulehel ja Valga autoplatsil aadressil Viljandi mnt
-  25. Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel.
+  25.  Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel. Lühi ja
+  pikaajaline autorent.
 intro:
   blurbs:
     - image: /img/asphalt-auto-automobile-1007410.jpg
       text: >
+        Kasutatud autode müük Valgas autoplatsil aadressil Viljandi mnt 25 ja
+        kodulehel. 
+
         Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
-        müügieelse ülevaatuse. Pakume igakülgset dokumentide vormistamisel.
+        müügieelse ülevaatuse. Pakume igakülgset abi dokumentide vormistamisel
+
+        ja laenu või liisingu taotlemisel.
     - image: /img/asphalt-audi-automobile-38637.jpg
       text: >
         Kvaliteetne ning soodsa hinnaga lühi- ja pikaajaline autorenditeenus.
@@ -68,3 +74,4 @@ main:
     alt: Coffee beans
     image: /img/automotive-black-coupe-80465.jpg
 ---
+
