@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'ESC Grupp OÜ',
+    title: 'Kasutatud autode müük Valgas',
     description:
-      'Kasutatud autode müük Valgas. Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse ülevaatuse. Sõidukite tellimine ja trantsport Euroopast. Komisjonimüük kodulehel ja Valga autoplatsil aadressil Viljandi mnt 25. Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel. Lühi- ja pikaajaline autorent.',
+      'Kasutatud autode müük Valga autoplatsil. Sõidukite tellimine ja trantsport Euroopast. Abistame liisingu, laenu ja dokumentide vormistamisel.Lühi ja pikaajaline autorent.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
