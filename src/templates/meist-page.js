@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Helmet from 'react-helmet'
 import Content, { HTMLContent } from '../components/Content'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
@@ -35,9 +36,11 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout
-    
-    >
+    <Layout>
+      <Helmet>
+        <title>Kasutatud autode müügiga seotud teenused. Toetame motosporti</title>
+        <meta name="description" content="Meil on pikaajaline kogemus - oleme tegelenud Valgas kasutatud autode müügiga rohkem kui 20 aastat. Arendame ja toetame kohalikku motosporti." />
+      </Helmet >
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

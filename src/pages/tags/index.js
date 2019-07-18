@@ -14,7 +14,8 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Silt | ${title}`} />
+      <Helmet title={`Silt | ${title}`}
+      />
       <div className="container content">
         <div className="columns">
           <div
