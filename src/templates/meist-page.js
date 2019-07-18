@@ -35,10 +35,12 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout
+    
+    >
       <AboutPageTemplate
         contentComponent={HTMLContent}
-        title="Arendame motosporti Valgamaal läbi MTÜ Valga Motoklubi"
+        title={post.frontmatter.title}
         content={post.html}
       />
     </Layout>
