@@ -9,8 +9,8 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
       <Helmet>
-          <title>Kuulutused</title>
-          <meta name="description" content="Kuulutuste sisu" />
+          <title>Autode müügikuulutused. Kasutatud autod Euroopast</title>
+          <meta name="description" content="Kasutatud autode müük Valga autoplatsil ja kodulehel. Kõik müüdavad autod on läbinud tehnilise taustakontrolli ja müügieelse ülevaatuse. Komisjonimüük" />
       </Helmet>
         <div
           className="full-width-image-container margin-top-0"
