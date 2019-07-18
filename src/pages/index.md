@@ -32,25 +32,6 @@ intro:
         Liikluskindlustus ja standardkasko sisaldub hinnas, tellimisel saate
         valida endale sobiva täiendava kindlustuskaitse või vähendatud
         omavastutusega kindlustuspaketi.
-    - image: /img/audi-automobile-car-lights-1149831.jpg
-      text: >
-        Sõidukite tellimise teenust. Võimalik on tellida nii sõiduauto,
-        väikebuss, veoauto kui ka ehitustehnikat. Teostame põhjaliku sõiduki ja
-        omaniku tausta kontroll.
-    - image: /img/automobile-automotive-car-638479.jpg
-      text: >
-        Sõidukite Euroopast transpordi teenus. Veame nii sõiduautosid,
-        väikebusse, veoautosid ja ka ehitustehnikat. Sobilik kasutada koos
-        tellimise teenusega.
-    - image: /img/asphalt-auto-car-327236.jpg
-      text: >-
-        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
-        müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
-        Viljandi mnt 25 ja abi auto ostu-müügi lepingu sõlmimisel.
-    - image: /img/automobiles-automotives-car-show-235226.jpg
-      text: >-
-        Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
-        meile anda - selle võrra väheneb uue auto ostuhind.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -74,3 +55,4 @@ main:
     alt: Coffee beans
     image: /img/automotive-black-coupe-80465.jpg
 ---
+
