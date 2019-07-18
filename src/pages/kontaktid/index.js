@@ -1,6 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import Helmet from 'react-helmet'
 
 function encode(data) {
   return Object.keys(data)
@@ -36,6 +37,10 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet>
+          <title>Huvi korral meie teenuste vastu võid sõnumi saata siinsamas</title>
+          <meta name="description" content="Kas soovid osta auto või müüa oma vana sõiduki meil? Kirjuta meile kui on huvi nende või teiste meie teenuste vastu." />
+        </Helmet>
         <section className="section">
           <div className="container">
             <div className="content">
