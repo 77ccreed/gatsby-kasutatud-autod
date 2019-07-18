@@ -38,7 +38,7 @@ const AboutPage = ({ data }) => {
     <Layout>
       <AboutPageTemplate
         contentComponent={HTMLContent}
-        title={post.frontmatter.title}
+        title="Arendame motosporti Valgamaal läbi MTÜ Valga Motoklubi"
         content={post.html}
       />
     </Layout>

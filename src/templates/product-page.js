@@ -135,7 +135,7 @@ const ProductPage = ({ data }) => {
     <Layout>
       <ProductPageTemplate
         image={frontmatter.image}
-        title={frontmatter.title}
+        title="Sõidukite müük, trantsport ja tellimine Euroopast ja muud teenused"
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
