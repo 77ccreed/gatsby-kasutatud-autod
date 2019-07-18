@@ -74,4 +74,3 @@ main:
     alt: Coffee beans
     image: /img/automotive-black-coupe-80465.jpg
 ---
-

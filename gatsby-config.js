@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Kasutatud autode müük Valgas',
+    title: 'Kasutatud autode müük Valga autoplatsil ja kodulehel',
     description:
-      'Kasutatud autode müük Valga autoplatsil ja kodulehel. Sõidukite tellimine ja trantsport Euroopast. Abistame liisingu, laenu ja dokumentide vormistamisel. Lühi ja pikaajaline autorent.',
+      'Sõidukite tellimine ja trantsport Euroopast. Abistame liisingu, laenu ja dokumentide vormistamisel. Lühi ja pikaajaline autorent.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
