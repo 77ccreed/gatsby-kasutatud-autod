@@ -14,8 +14,13 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Silt | ${title}`}
-      />
+      <Helmet>    
+          title={`Silt | ${title}`}
+          <meta
+            name="description"
+            content={`Kasutatud autode müük Valga autoplatsil ja kodulehel. Kõik autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse ülevaatuse. | ${title} `}
+          />
+          </Helmet>       
       <div className="container content">
         <div className="columns">
           <div
