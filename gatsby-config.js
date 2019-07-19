@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Kasutatud autode müük Valga autoplatsil ja kodulehel',
     description:
-      'Sõidukite tellimine ja trantsport Euroopast. Abistame liisingu, laenu ja dokumentide vormistamisel. Lühi ja pikaajaline autorent.',
+      'Autode müük. Sõidukite Euroopast tellimine ja trantsport. Abistame liisingu, laenu ja dokumentide vormistamisel. Lühi ja pikaajaline autorent. Komisjonimüük',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Helmet from 'react-helmet'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
@@ -133,6 +134,10 @@ const ProductPage = ({ data }) => {
 
   return (
     <Layout>
+      <Helmet>
+        <title>Sõidukite müük autoplatsil ja kodulehel. Lühi- ja pikaajaline autorent</title>
+        <meta name="description" content="Sõidukite müük. Tellimine ja trantsport Euroopast. Komisjonimüük ja sõiduki vahetamise teenus. Autorent. Abistame dokumentide vormistamisel." />
+      </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
