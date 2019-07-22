@@ -64,11 +64,11 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Kuulutus">
+          <Helmet titleTemplate="%s | Autode müügikuulutused">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`Auto müügikuulutus | ${post.frontmatter.description}`}
             />
           </Helmet>
         }
