@@ -14,7 +14,6 @@ class TagRoute extends React.Component {
       </li>
     ))
     const tag = this.props.pageContext.tag
-    const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `${totalCount} kuulutus${
       totalCount === 1 ? '' : 't'
@@ -23,7 +22,10 @@ class TagRoute extends React.Component {
     return (
       <Layout>
         <section className="section">
-          <Helmet title={`${tag} | ${title}`} />
+          <Helmet>
+            <title>Autode müügikuulutused. Sõidukite müük autoplatsil ja kodulehel.</title>
+            <meta name="description" content="Autode müügikuulutused. Kasutatud autode müük Valga autoplatsil ja kodulehel. Autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse ülevaatuse." />
+          </Helmet >
           <div className="container content">
             <div className="columns">
               <div
