@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Audi A4 S- LINE 2.5 TDI 120kW
 date: 2019-07-29T09:00:46.705Z
 description: >
-  Müüa 2003. aasta universaalkerega punane Audi, soodushinnaga 2950 eurot. Auto
-  on manuaal käigukastiga, esisillaveoline diiselauto.
+  Müüa 2003. aasta universaalkerega punane Audi A4, soodushinnaga 2950 eurot.
+  Auto on manuaal käigukastiga, esisillaveoline diiselauto.
 featuredpost: true
 featuredimage: /img/audi_a4_s-line_2.5_tdi_120kw_1.jpg
 tags:
