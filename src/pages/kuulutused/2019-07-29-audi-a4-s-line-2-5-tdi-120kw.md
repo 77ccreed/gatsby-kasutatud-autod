@@ -2,7 +2,9 @@
 templateKey: blog-post
 title: Audi A4 S- LINE 2.5 TDI 120kW
 date: 2019-07-29T09:00:46.705Z
-description: "Liik:\tsõiduauto\nKeretüüp:\tuniversaal\nEsmane reg:\t09/2003\nMootor:\t2.5 TDI (120 kW)\nKütus:\tdiisel\nLäbisõidumõõdiku näit:\t270 000 km\nVedav sild:\tesivedu\nKäigukast:\tmanuaal\nVärvus:\tpunane\nHind:\t3500 EUR\nKM 0% (käibemaksu ei lisandu)\nSoodushind:\t2950 EUR\nKM 0% (käibemaksu ei lisandu)"
+description: >
+  Müüa 2003. aasta universaalkerega punane Audi, soodushinnaga 2950 eurot. Auto
+  on manuaal käigukastiga, esisillaveoline diiselauto.
 featuredpost: true
 featuredimage: /img/audi_a4_s-line_2.5_tdi_120kw_1.jpg
 tags:
