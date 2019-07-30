@@ -2,7 +2,9 @@
 templateKey: blog-post
 title: Audi A6 allroad 2.5 TDI 132kW
 date: 2019-07-29T09:39:21.294Z
-description: "Liik:\tsõiduauto\nKeretüüp:\tuniversaal\nEsmane reg:\t2003\nMootor:\t2.5 TDI (132 kW)\nKütus:\tdiisel\nLäbisõidumõõdiku näit:\t240 000 km\nVedav sild:\tnelikvedu\nKäigukast:\tautomaat\nVärvus:\tmust met.\nVIN-kood:\tWAUZZZ4B13N084489\nHind:\t3850 EUR\nKM 0% (käibemaksu ei lisandu)\nSoodushind:\t3500 EUR\nKM 0% (käibemaksu ei lisandu)"
+description: >
+  Müüa 2003. aasta universaalkerega Audi A6, hinnaga 3500 eurot. Autol on
+  nelikvedu, automaat käigukast ja diiselmootor.
 featuredpost: true
 featuredimage: /img/audi_a6_allroad_2.5_tdi_132kw_1.jpg
 tags:
