@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Pakutavad teenused
-image: /img/automotive-black-coupe-80465.jpg
+image: /img/audi_a6_2.7_tdi_132kw_6.jpg
 heading: Sõidukite müük ja autorent
 description: >-
   Lisaks pakume sõidukite tellimise ja Euroopast trantspordi teenust.
@@ -101,3 +101,4 @@ pricing:
       plan: Pikaajaline autorent.
       price: '670'
 ---
+
