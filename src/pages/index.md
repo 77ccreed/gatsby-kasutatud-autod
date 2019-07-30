@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KASUTATUD AUTODE MÜÜK
-image: /img/bmw_525_m-paket_2.5_120kw_2.jpg
+image: /img/car-lamborghini-race-car-18296.jpg
 heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
 subheading: Sõidukite Euroopast tellimise ja trantspordi teenus
 mainpitch:
