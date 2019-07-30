@@ -16,6 +16,8 @@ tags:
 ---
 ![Audi A4 S- LINE 2.5 TDI 120kW](/img/audi_a4_s-line_2.5_tdi_120kw_1.jpg "Audi A4 S- LINE 2.5 TDI 120kW")
 
+## Audi A4 hinnaga 2950 eurot
+
 * **Liik:	sõiduauto**
 * **Keretüüp:	universaal**
 * **Esmane reg:	09/2003**
