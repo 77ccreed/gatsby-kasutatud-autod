@@ -20,18 +20,18 @@ tags:
 
 Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto läbisõit on 270 000 km.
 
-* **Liik:	sõiduauto**
-* **Keretüüp:	universaal**
-* **Esmane reg:	09/2003**
-* **Mootor:	2.5 TDI (120 kW)**
-* **Kütus:	diisel**
-* **Läbisõidumõõdiku näit:	270 000 km**
-* **Vedav sild:	esivedu**
-* **Käigukast:	manuaal**
-* **Värvus:	punane**
-* **VIN-kood:	WAUZZZ8E14A054387**
-* **Soodushind:	2950 EUR**
-* **KM 0% (käibemaksu ei lisandu)**
+* Liik:	sõiduauto
+* Keretüüp:	universaal
+* Esmane reg:	09/2003
+* Mootor:	2.5 TDI (120 kW)
+* Kütus:	diisel
+* Läbisõidumõõdiku näit:	270 000 km
+* Vedav sild:	esivedu
+* Käigukast:	manuaal
+* Värvus:	punane
+* VIN-kood:	WAUZZZ8E14A054387
+* Soodushind:	2950 EUR
+* KM 0% (käibemaksu ei lisandu)
 
 ![Audi A4 S- LINE 2.5 TDI 120kW valisvaade tagant](/img/audi_a4_s-line_2.5_tdi_120kw_2.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade tagant")
 
