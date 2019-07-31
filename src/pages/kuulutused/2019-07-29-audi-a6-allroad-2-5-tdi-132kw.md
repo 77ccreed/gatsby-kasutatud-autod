@@ -19,7 +19,7 @@ tags:
 
 ## Hind 3500 eurot.
 
-2003. aasta universaalkerega Audi A6. Autol on neljarattavedu, automaat käigukast ja diiselmootor.
+Universaalkerega 2003. aasta Audi A6. Autol on neljarattavedu, automaat käigukast ja diiselmootor.
 
 * **Liik:	sõiduauto**
 * **Keretüüp:	universaal**
