@@ -2,9 +2,10 @@
 templateKey: blog-post
 title: Audi Q7 S-LINE 3.0 TDI 171kW
 date: 2019-07-29T14:19:36.064Z
-description: >
-  Müüa 2007. aasta Audi Q7 maastur, mille hinnaks on 13 500 eurot. Autol on
-  diiselmootor, automaat käigukast ja nelikvedu.
+description: >+
+  Valge sõiduauto Audi Q7 asub Valga automüügiplatsil. Auto läbisõit on 228 000
+  km.
+
 featuredpost: true
 featuredimage: /img/audi_q7_s-line_3.0_tdi_171kw_1.jpg
 tags:
@@ -16,7 +17,9 @@ tags:
 ---
 ![Audi Q7 S-LINE 3.0 TDI 171kW](/img/audi_q7_s-line_3.0_tdi_171kw_1.jpg "Audi Q7 S-LINE 3.0 TDI 171kW")
 
-## Audi A7 hinnaga 13 500 eurot
+## Hind 13 500 eurot.
+
+2007. aasta maastur Audi Q7.  Autol on neljarattavedu, automaat käigukast ja diiselmootor.
 
 * **Liik:	maastur**
 * **Esmane reg:	2007**
@@ -27,8 +30,6 @@ tags:
 * **Käigukast:	automaat**
 * **Värvus:	valge**
 * **VIN-kood:	WAUZZZ4L78D061112**
-* **Hind:	13 900 EUR**
-* **KM 0% (käibemaksu ei lisandu)**
 * **Soodushind:	13 500 EUR**
 * **KM 0% (käibemaksu ei lisandu)**
 
