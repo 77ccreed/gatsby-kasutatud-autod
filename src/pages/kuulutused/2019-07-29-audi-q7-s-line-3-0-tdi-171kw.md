@@ -17,7 +17,7 @@ tags:
 ---
 ![Audi Q7 S-LINE 3.0 TDI 171kW](/img/audi_q7_s-line_3.0_tdi_171kw_1.jpg "Audi Q7 S-LINE 3.0 TDI 171kW")
 
-## Hind 13 500 eurot.
+## Hind 13 500 eurot. 
 
 2007. aasta maastur Audi Q7.  Autol on neljarattavedu, automaat käigukast ja diiselmootor.
 
