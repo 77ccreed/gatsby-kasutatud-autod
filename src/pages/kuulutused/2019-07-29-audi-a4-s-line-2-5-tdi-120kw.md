@@ -122,3 +122,7 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 
 * Toodud riigist: Saksamaa
 * Sõiduki asukoht: Valga, Eesti
+
+Auto on lisatud auto24 lehele ja kättesaadav aadressil:
+
+<https://www.auto24.ee/used/3111580>
