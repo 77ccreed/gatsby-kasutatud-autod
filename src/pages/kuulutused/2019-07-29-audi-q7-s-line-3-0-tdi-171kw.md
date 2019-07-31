@@ -128,3 +128,7 @@ Valge sõiduauto Audi Q7 asub Valga automüügiplatsil. Auto läbisõit on 228 0
 **MUU INFORMATSIOON**
 
 * Sõiduki asukoht: Valga, Eesti
+
+Auto on lisatud auto24 lehele ja kättesaadav aadressil:
+
+<https://www.auto24.ee/used/3146790>
