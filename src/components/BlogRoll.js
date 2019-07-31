@@ -45,7 +45,7 @@ class BlogRoll extends React.Component {
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -88,6 +88,7 @@ export default () => (
                 templateKey
                 date(formatString: "DD. MM. YYYY.")
                 featuredpost
+                description
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 120, quality: 100) {
