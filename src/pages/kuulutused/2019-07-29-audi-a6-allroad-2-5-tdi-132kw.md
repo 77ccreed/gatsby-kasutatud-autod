@@ -124,3 +124,7 @@ Saksamaalt toodud must metallik sõiduauto Audi A6 asub Valga automüügiplatsil
 
 * Toodud riigist: Saksamaa
 * Sõiduki asukoht: Valga, Eesti
+
+Auto on lisatud auto24 lehele ja kättesaadav aadressil:
+
+<https://www.auto24.ee/used/3146890>
