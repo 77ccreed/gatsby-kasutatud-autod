@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Audi A4 S- LINE 2.5 TDI 120kW
 date: 2019-07-29T09:00:46.705Z
-description: >
-  Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto
-  läbisõit on 270 000 km.
+description: >-
+  Universaalkerega 2003. aasta Audi A4. Autol on manuaal käigukast, esisillavedu
+  ja diiselmootor.
 featuredpost: true
 featuredimage: /img/audi_a4_s-line_2.5_tdi_120kw_1.jpg
 tags:
@@ -18,7 +18,7 @@ tags:
 
 ## Hind 2950 eurot.
 
-Universaalkerega 2003. aasta Audi A4. Autol on manuaal käigukast, esisillavedu ja diiselmootor.
+Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto läbisõit on 270 000 km.
 
 * **Liik:	sõiduauto**
 * **Keretüüp:	universaal**
