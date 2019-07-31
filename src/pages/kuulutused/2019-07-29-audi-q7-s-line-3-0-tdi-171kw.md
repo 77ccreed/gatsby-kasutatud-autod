@@ -17,21 +17,21 @@ tags:
 ---
 ![Audi Q7 S-LINE 3.0 TDI 171kW](/img/audi_q7_s-line_3.0_tdi_171kw_1.jpg "Audi Q7 S-LINE 3.0 TDI 171kW")
 
-## Hind 13 500 eurot.
+## Hind 13 500 eurot
 
 Valge sõiduauto Audi Q7 asub Valga automüügiplatsil. Auto läbisõit on 228 000 km.
 
-* **Liik:	maastur**
-* **Esmane reg:	2007**
-* **Mootor:	3.0 TDI (171 kW)**
-* **Kütus:	diisel**
-* **Läbisõidumõõdiku näit:	228 000 km**
-* **Vedav sild:	nelikvedu**
-* **Käigukast:	automaat**
-* **Värvus:	valge**
-* **VIN-kood:	WAUZZZ4L78D061112**
-* **Soodushind:	13 500 EUR**
-* **KM 0% (käibemaksu ei lisandu)**
+* Liik:	maastur
+* Esmane reg:	2007
+* Mootor:	3.0 TDI (171 kW)
+* Kütus:	diisel
+* Läbisõidumõõdiku näit:	228 000 km
+* Vedav sild:	nelikvedu
+* Käigukast:	automaat
+* Värvus:	valge
+* VIN-kood:	WAUZZZ4L78D061112
+* Soodushind:	13 500 EUR
+* KM 0% (käibemaksu ei lisandu)
 
 ![Audi Q7 S-LINE 3.0 TDI 171kW vaade tagant](/img/audi_q7_s-line_3.0_tdi_171kw_3.jpg "Audi Q7 S-LINE 3.0 TDI 171kW vaade tagant")
 
