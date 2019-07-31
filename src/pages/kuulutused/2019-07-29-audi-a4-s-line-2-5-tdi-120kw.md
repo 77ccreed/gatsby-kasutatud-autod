@@ -18,7 +18,7 @@ tags:
 
 ## Hind 2950 eurot.
 
-2003. aasta universaalkerega sõiduauto Audi A4. Autol on manuaal käigukast, esisillavedu ja diiselmootor.
+Universaalkerega 2003. aasta Audi A4. Autol on manuaal käigukast, esisillavedu ja diiselmootor.
 
 * **Liik:	sõiduauto**
 * **Keretüüp:	universaal**
