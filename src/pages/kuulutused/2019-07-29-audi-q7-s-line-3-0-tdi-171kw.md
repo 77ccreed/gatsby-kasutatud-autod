@@ -19,7 +19,7 @@ tags:
 
 ## Hind 13 500 eurot. 
 
- Maastur Audi Q7.  2007. aasta autol on neljarattavedu, automaat käigukast ja diiselmootor.
+Audi Q7 maastur.  2007. aasta autol on neljarattavedu, automaat käigukast ja diiselmootor.
 
 * **Liik:	maastur**
 * **Esmane reg:	2007**
