@@ -2,10 +2,9 @@
 templateKey: blog-post
 title: Audi A6 allroad 2.5 TDI 132kW
 date: 2019-07-29T09:39:21.294Z
-description: >+
-  Saksamaalt toodud must metallik sõiduauto Audi A6 asub Valga automüügiplatsil.
-  Auto läbisõit on 240 000 km.
-
+description: >-
+  Universaalkerega 2003. aasta Audi A6. Autol on neljarattavedu, automaat
+  käigukast ja diiselmootor.
 featuredpost: true
 featuredimage: /img/audi_a6_allroad_2.5_tdi_132kw_1.jpg
 tags:
@@ -19,7 +18,7 @@ tags:
 
 ## Hind 3500 eurot.
 
-Universaalkerega 2003. aasta Audi A6. Autol on neljarattavedu, automaat käigukast ja diiselmootor.
+Saksamaalt toodud must metallik sõiduauto Audi A6 asub Valga automüügiplatsil. Auto läbisõit on 240 000 km.
 
 * **Liik:	sõiduauto**
 * **Keretüüp:	universaal**
