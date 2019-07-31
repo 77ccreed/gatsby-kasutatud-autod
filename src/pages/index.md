@@ -3,7 +3,7 @@ templateKey: index-page
 title: KASUTATUD AUTODE MÜÜK
 image: /img/car-lamborghini-race-car-18296.jpg
 heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
-subheading: Valga autoplatsil ja kodulehel. Komisjonimüük
+subheading: Valga autoplatsil ja kodulehel. Sõidukite komisjonimüük
 mainpitch:
   title: ESC Grupp OÜ
   description: >
