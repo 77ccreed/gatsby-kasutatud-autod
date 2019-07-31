@@ -16,24 +16,24 @@ tags:
 ---
 ![Audi A6 allroad 2.5 TDI 132kW](/img/audi_a6_allroad_2.5_tdi_132kw_1.jpg "Audi A6 allroad 2.5 TDI 132kW")
 
-## Hind 3500 eurot.
+## Hind 3500 eurot
 
 Saksamaalt toodud must metallik sõiduauto Audi A6 asub Valga automüügiplatsil. Auto läbisõit on 240 000 km.
 
-* **Liik:	sõiduauto**
-* **Keretüüp:	universaal**
-* **Esmane reg:	2003**
-* **Mootor:	2.5 TDI (132 kW)**
-* **Kütus:	diisel**
-* **Läbisõidumõõdiku näit:	240 000 km**
-* **Vedav sild:	nelikvedu**
-* **Käigukast:	automaat**
-* **Värvus:	must met.**
-* **VIN-kood:	WAUZZZ4B13N084489**
-* **Hind:	3850 EUR**
-* **KM 0% (käibemaksu ei lisandu)**
-* **Soodushind:	3500 EUR**
-* **KM 0% (käibemaksu ei lisandu)**
+* Liik:	sõiduauto
+* Keretüüp:	universaal
+* Esmane reg:	2003
+* Mootor:	2.5 TDI (132 kW)
+* Kütus:	diisel
+* Läbisõidumõõdiku näit:	240 000 km
+* Vedav sild:	nelikvedu
+* Käigukast:	automaat
+* Värvus:	must met.
+* VIN-kood:	WAUZZZ4B13N084489
+* Hind:	3850 EUR
+* KM 0% (käibemaksu ei lisandu)
+* Soodushind:	3500 EUR
+* KM 0% (käibemaksu ei lisandu)
 
 ![Audi A6 allroad 2.5 TDI 132kW välisvaade tagant](/img/audi_a6_allroad_2.5_tdi_132kw_2.jpg "Audi A6 allroad 2.5 TDI 132kW välisvaade tagant")
 
