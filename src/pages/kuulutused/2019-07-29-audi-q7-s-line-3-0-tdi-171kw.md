@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Audi Q7 S-LINE 3.0 TDI 171kW
 date: 2019-07-29T14:19:36.064Z
 description: >+
-  Valge sõiduauto Audi Q7 asub Valga automüügiplatsil. Auto läbisõit on 228 000
-  km.
+  2007. aasta maastur Audi Q7. Autol on neljarattavedu, automaat käigukast ja
+  diiselmootor.
 
 featuredpost: true
 featuredimage: /img/audi_q7_s-line_3.0_tdi_171kw_1.jpg
@@ -19,7 +19,7 @@ tags:
 
 ## Hind 13 500 eurot.
 
-Maastur 2007. aasta Audi Q7. Autol on neljarattavedu, automaat käigukast ja diiselmootor.
+Valge sõiduauto Audi Q7 asub Valga automüügiplatsil. Auto läbisõit on 228 000 km.
 
 * **Liik:	maastur**
 * **Esmane reg:	2007**
