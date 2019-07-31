@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Audi A4 S- LINE 2.5 TDI 120kW
 date: 2019-07-29T09:00:46.705Z
 description: >
-  Müüa 2003. aasta universaalkerega punane Audi A4, soodushinnaga 2950 eurot.
-  Auto on manuaal käigukastiga, esisillaveoline diiselauto.
+  Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto
+  läbisõit on 270 000 km.
 featuredpost: true
 featuredimage: /img/audi_a4_s-line_2.5_tdi_120kw_1.jpg
 tags:
@@ -16,7 +16,9 @@ tags:
 ---
 ![Audi A4 S- LINE 2.5 TDI 120kW](/img/audi_a4_s-line_2.5_tdi_120kw_1.jpg "Audi A4 S- LINE 2.5 TDI 120kW")
 
-## Audi A4 hinnaga 2950 eurot
+## Hind 2950 eurot.
+
+2003. aasta universaalkerega sõiduauto Audi A4. Autol on manuaal käigukast, esisillavedu ja diiselmootor.
 
 * **Liik:	sõiduauto**
 * **Keretüüp:	universaal**
@@ -28,9 +30,6 @@ tags:
 * **Käigukast:	manuaal**
 * **Värvus:	punane**
 * **VIN-kood:	WAUZZZ8E14A054387**
-* **Kontrolli ajalugu**
-* **Hind:	3500 EUR**
-* **KM 0% (käibemaksu ei lisandu)**
 * **Soodushind:	2950 EUR**
 * **KM 0% (käibemaksu ei lisandu)**
 
