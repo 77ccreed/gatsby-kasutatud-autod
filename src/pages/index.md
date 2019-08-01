@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KASUTATUD AUTODE MÜÜK
-image: /img/car-lamborghini-race-car-18296.jpg
+image: /img/audi_a4_s-line_2.5_tdi_120kw_1.jpg
 heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
 subheading: Valga autoplatsil ja kodulehel. Sõidukite komisjonimüük
 mainpitch:
@@ -55,3 +55,4 @@ main:
     alt: Coffee beans
     image: /img/automotive-black-coupe-80465.jpg
 ---
+
