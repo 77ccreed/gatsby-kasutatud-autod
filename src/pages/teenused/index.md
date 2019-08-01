@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Pakutavad teenused
-image: /img/audi_a6_2.7_tdi_132kw_6.jpg
+image: /img/asphalt-auto-automobile-1007410.jpg
 heading: Sõidukite müük ja autorent
 description: >-
   Lisaks pakume sõidukite tellimise ja Euroopast trantspordi teenust.
