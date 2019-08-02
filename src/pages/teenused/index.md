@@ -12,28 +12,20 @@ intro:
       text: >
         Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
         müügieelse ülevaatuse. Pakume igakülgset dokumentide vormistamisel.
-    - image: /img/asphalt-audi-automobile-38637.jpg
+    - image: /img/asphalt-auto-car-327236.jpg
       text: >-
-        Kvaliteetne ning soodsa hinnaga lühi- ja pikaajaline autorenditeenus.
-        Rendiautod on heas tehnilises seisukorras ja hästi hooldatud.
-        Liikluskindlustus ja standardkasko sisaldub hinnas, tellimisel saate
-        valida endale sobiva täiendava kindlustuskaitse või vähendatud
-        omavastutusega kindlustuspaketi.
+        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
+        müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
+        Viljandi mnt 25 ja abi auto müügil ja dokumentide vormistamisel.
     - image: /img/audi-automobile-car-lights-1149831.jpg
       text: >
         Sõidukite tellimise teenust. Võimalik on tellida nii sõiduauto,
         väikebuss, veoauto kui ka ehitustehnikat. Teostame põhjaliku sõiduki ja
         omaniku tausta kontroll.
-    - image: /img/automobile-automotive-car-638479.jpg
-      text: >
+
         Sõidukite Euroopast transpordi teenus. Veame nii sõiduautosid,
         väikebusse, veoautosid ja ka ehitustehnikat. Sobilik kasutada koos
         tellimise teenusega.
-    - image: /img/asphalt-auto-car-327236.jpg
-      text: >-
-        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
-        müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
-        Viljandi mnt 25 ja abi auto ostu-müügi lepingu sõlmimisel.
     - image: /img/automobiles-automotives-car-show-235226.jpg
       text: >-
         Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
