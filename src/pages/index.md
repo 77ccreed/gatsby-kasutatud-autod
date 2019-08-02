@@ -6,31 +6,26 @@ heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
 subheading: Valga autoplatsil ja kodulehel. Sõidukite komisjonimüük
 mainpitch:
   title: ESC Grupp OÜ
-  description: >
+  description: >-
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
 description: >-
   Lisaks lai valik teisi teenuseid - abi sõidukite tellimisel ja trantspordil
-  Euroopast. Komisjonimüük kodulehel ja Valga autoplatsil aadressil Viljandi mnt
-  25.  Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel.
+  Euroopast, komisjonimüük kodulehel ja Valga autoplatsil aadressil Viljandi mnt
+  25.  Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel. Huvi
+  korral meie teenuste vastu võib sõnumi saata kontaktide lehel või helistada
+  telefonil +372 503 0157. 
 intro:
   blurbs:
     - image: /img/asphalt-auto-automobile-1007410.jpg
-      text: >
-        Kasutatud autode müük Valgas autoplatsil aadressil Viljandi mnt 25 ja
-        kodulehel. 
-
+      text: >-
         Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
-        müügieelse ülevaatuse. Pakume igakülgset abi dokumentide vormistamisel
-
-        ja laenu või liisingu taotlemisel.
-    - image: /img/asphalt-audi-automobile-38637.jpg
-      text: >
-        Kvaliteetne ning soodsa hinnaga lühi- ja pikaajaline autorenditeenus.
-        Rendiautod on heas tehnilises seisukorras ja hästi hooldatud.
-        Liikluskindlustus ja standardkasko sisaldub hinnas, tellimisel saate
-        valida endale sobiva täiendava kindlustuskaitse või vähendatud
-        omavastutusega kindlustuspaketi.
+        müügieelse ülevaatuse. Pakume igakülgset dokumentide vormistamisel.
+    - image: /img/asphalt-auto-car-327236.jpg
+      text: >-
+        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
+        müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
+        Viljandi mnt 25 ja abi auto müügil ja dokumentide vormistamisel.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
