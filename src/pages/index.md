@@ -20,7 +20,7 @@ intro:
     - image: /img/asphalt-auto-automobile-1007410.jpg
       text: >-
         Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
-        müügieelse ülevaatuse. Pakume igakülgset dokumentide vormistamisel.
+        müügieelse ülevaatuse. Pakume igakülgset abi dokumentide vormistamisel.
     - image: /img/asphalt-auto-car-327236.jpg
       text: >-
         Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
