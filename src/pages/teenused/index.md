@@ -11,25 +11,23 @@ intro:
     - image: /img/asphalt-auto-automobile-1007410.jpg
       text: >
         Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
-        müügieelse ülevaatuse. Pakume igakülgset dokumentide vormistamisel.
+        müügieelse ülevaatuse. Pakume igakülgset abi dokumentide vormistamisel.
     - image: /img/asphalt-auto-car-327236.jpg
       text: >-
         Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
         müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
         Viljandi mnt 25 ja abi auto müügil ja dokumentide vormistamisel.
+    - image: /img/automobiles-automotives-car-show-235226.jpg
+      text: >-
+        Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
+        meile anda - selle võrra väheneb uue auto ostuhind.
     - image: /img/audi-automobile-car-lights-1149831.jpg
       text: >
         Sõidukite tellimise teenust. Võimalik on tellida nii sõiduauto,
         väikebuss, veoauto kui ka ehitustehnikat. Teostame põhjaliku sõiduki ja
         omaniku tausta kontroll.
 
-        Sõidukite Euroopast transpordi teenus. Veame nii sõiduautosid,
-        väikebusse, veoautosid ja ka ehitustehnikat. Sobilik kasutada koos
-        tellimise teenusega.
-    - image: /img/automobiles-automotives-car-show-235226.jpg
-      text: >-
-        Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
-        meile anda - selle võrra väheneb uue auto ostuhind.
+        Sõidukite Euroopast transpordi teenus. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
