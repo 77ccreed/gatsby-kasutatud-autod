@@ -119,3 +119,7 @@ tags:
 * Toodud riigist: Saksamaa
 * Sõiduki asukoht: Eesti
 * kaks võtit
+
+Auto on lisatud auto24 lehele ja kättesaadav aadressil:
+
+<http://www.auto24.ee/used/1985108>
