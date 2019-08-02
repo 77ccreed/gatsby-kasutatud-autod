@@ -43,6 +43,26 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
+
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "Estonia",
+              "addressLocality": "Valga",
+              "streetAddress": "Viljandi mnt 25",
+              "postalCode": "68206"
+            },
+            "description": "Kasutatud autode müük Valga autoplatsil ja kodulehel.",
+            "name": "ESC Grupp OÜ",
+            "telephone": "+372 503 0157",
+            "priceRange": "€€€€-€€€€€",
+            "url": "https://valgaautoaed.ee/",
+            "image": "https://valgaautoaed.ee/"
+          })}
+        </script>
       </Helmet>
       <Navbar />
       <div>{children}</div>
