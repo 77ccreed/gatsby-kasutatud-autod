@@ -7,6 +7,12 @@ description: >-
   käigukast ja diiselmootor
 featuredpost: true
 featuredimage: /img/mercedes-benz_vito_2.2_cdi_85kw_1.jpg
+tags:
+  - Mercedes-Benz
+  - kaubik
+  - '2010'
+  - manuaal
+  - diisel
 ---
 ![Mercedes-Benz Vito 2.2 CDI 85kW](/img/mercedes-benz_vito_2.2_cdi_85kw_1.jpg "Mercedes-Benz Vito 2.2 CDI 85kW")
 
