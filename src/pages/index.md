@@ -10,10 +10,9 @@ mainpitch:
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
 description: >-
-  Lisaks lai valik teisi teenuseid - sõidukite tellimine ja trantsport
+  Lisaks lai valik teisi teenuseid - abi sõidukite tellimisel ja trantspordil
   Euroopast. Komisjonimüük kodulehel ja Valga autoplatsil aadressil Viljandi mnt
-  25.  Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel. Lühi ja
-  pikaajaline autorent.
+  25.  Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel.
 intro:
   blurbs:
     - image: /img/asphalt-auto-automobile-1007410.jpg
