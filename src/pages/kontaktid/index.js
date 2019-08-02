@@ -46,7 +46,7 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Kontaktid</h1>
               <p>Kirja võib saata siinsamas või aadressil valgamoto@gmail.com</p>
-              <p>Helistada võib telefonil +372 503 0157</p>
+              <p>Helistada võib numbril +372 503 0157</p>
               <form
                 name="contact"
                 method="post"
