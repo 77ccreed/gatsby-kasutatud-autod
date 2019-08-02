@@ -63,27 +63,23 @@ testimonials:
 full_image: /img/automobile-automotive-car-638479.jpg
 pricing:
   heading: Soodne autorent.
-  description: >-
-    Kvaliteetne ning soodsa hinnaga autorenditeenus. Rendiautodel jälgitakse
-    pidevalt tehnilist seisukorda ja teostatakse hooldust. Liikluskindlustus ja
-    standardkasko sisaldub hinnas, tellimisel saate valida endale sobiva
-    täiendava kindlustuskaitse või vähendatud omavastutusega kindlustuspaketi.
+  description: Kvaliteetne ning soodsa hinnaga autorenditeenus.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Võta rendiauto päevaks või paariks.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Lühiajaline autorent.
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: Võta rendiauto nädalaks
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Keskmise pikkusega rent.
       price: '200'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Võta rendiauto terveks kuuks.
       items:
         - Whatever you need
         - Green or roasted beans
