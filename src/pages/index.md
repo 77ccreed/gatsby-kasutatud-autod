@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KASUTATUD AUTODE MÜÜK
-image: /img/bmw_525_m-paket_2.5_120kw_8.jpg
+image: /img/bmw_530_individual_3.0_142kw_10.jpg
 heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
 subheading: Valga autoplatsil ja kodulehel. Sõidukite komisjonimüük
 mainpitch:
