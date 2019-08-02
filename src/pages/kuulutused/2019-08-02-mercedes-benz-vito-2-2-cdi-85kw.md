@@ -8,7 +8,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/mercedes-benz_vito_2.2_cdi_85kw_1.jpg
 tags:
-  - Mercedes-Benz
+  - mercedes-benz
   - kaubik
   - '2010'
   - manuaal
