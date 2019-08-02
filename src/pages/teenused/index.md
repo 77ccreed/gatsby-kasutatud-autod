@@ -67,23 +67,17 @@ pricing:
   plans:
     - description: Võta rendiauto päevaks või paariks.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Kaubiku rent
       plan: Lühiajaline autorent.
       price: '50'
     - description: Võta rendiauto nädalaks
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Kaubiku rent
       plan: Keskmise pikkusega rent.
       price: '200'
     - description: Võta rendiauto terveks kuuks.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Kaubiku rent
       plan: Pikaajaline autorent.
       price: '670'
 ---
