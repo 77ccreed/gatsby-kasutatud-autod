@@ -5,6 +5,7 @@ module.exports = {
     title: 'Kasutatud autode müük Valga autoplatsil ja kodulehel',
     description:
       'Autode müük. Sõidukite Euroopast tellimine ja trantsport. Abistame liisingu, laenu ja dokumentide vormistamisel. Lühi ja pikaajaline autorent. Komisjonimüük',
+    siteUrl: 'https://valgaautoaed.ee'
   },
   plugins: [
     {
@@ -15,6 +16,7 @@ module.exports = {
     },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    'gatsby-plugin-robots-txt',
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
