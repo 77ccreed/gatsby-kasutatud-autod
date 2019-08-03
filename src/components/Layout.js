@@ -44,6 +44,8 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta property="og:image" content="/img/og-image.jpg" />
 
+        <meta name="google-site-verification" content="cMrVNOkm2vRBd7aaYFacnlYO2UwqEMBesv6ADWBJVno" />
+
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "http://schema.org",
