@@ -39,7 +39,7 @@ export default class Index extends React.Component {
       <Layout>
         <Helmet>
           <title>Huvi korral meie teenuste vastu võid sõnumi saata siinsamas</title>
-          <meta name="description" content="Kas soovid osta auto või müüa oma vana sõiduki meil? Kirjuta meile kui on huvi nende või teiste meie teenuste vastu." />
+          <meta name="description" content="Kas soovid osta auto või müüa oma vana sõiduki meil? Kirjuta kui on huvi nende või teiste meie teenuste vastu." />
         </Helmet>
         <section className="section">
           <div className="container">
