@@ -25,7 +25,7 @@ intro:
       text: >
         Sõidukite tellimise teenust. Võimalik on tellida nii sõiduauto,
         väikebuss, veoauto kui ka ehitustehnikat. Teostame põhjaliku sõiduki ja
-        omaniku tausta kontroll.
+        omaniku tausta kontrolli.
 
         Sõidukite Euroopast transpordi teenus. 
   heading: What we offer
