@@ -24,7 +24,7 @@ class TagRoute extends React.Component {
         <section className="section">
           <Helmet>
             <title>Valga Autoaed - autode müügikuulutused | {tag}</title>
-            <meta name="description" content="Valga Autoaed - autode müügikuulutused. Kasutatud autode müük Valga autoplatsil ja kodulehel. Autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse ülevaatuse." />
+            <meta name="description" content="{tag} | Kasutatud autode müük Valga autoplatsil ja kodulehel. Autod on läbinud põhjaliku tehnilise taustakontrolli." />
           </Helmet >
           <div className="container content">
             <div className="columns">
