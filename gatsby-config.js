@@ -2,7 +2,7 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Valga Autoaed - kasutatud autode müük Valga autoplatsil',
+    title: 'Valga Autoaed - kasutatud autode müük autoplatsil ja kodulehel',
     description:
       'Autode müük. Sõidukite Euroopast tellimine ja trantsport. Abistame liisingu, laenu ja dokumentide vormistamisel. Lühi ja pikaajaline autorent. Komisjonimüük',
     siteUrl: 'https://valgaautoaed.ee'
