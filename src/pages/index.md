@@ -11,10 +11,9 @@ mainpitch:
     ülevaatuse.
 description: >-
   Lisaks lai valik teisi teenuseid - abi sõidukite tellimisel ja trantspordil
-  Euroopast, komisjonimüük kodulehel ja Valga autoplatsil aadressil Viljandi mnt
-  25.  Abistame autoostjat liisingu, laenu ja dokumentide vormistamisel. Huvi
-  korral meie teenuste vastu võib sõnumi saata kontaktide lehel või helistada
-  telefonil +372 503 0157. 
+  Euroopast, komisjonimüük kodulehel ja Valga autoplatsil.  Abistame autoostjat
+  liisingu, laenu ja dokumentide vormistamisel. Huvi korral meie teenuste vastu
+  võib sõnumi saata kontaktide lehel või helistada telefonil +372 503 0157. 
 intro:
   blurbs:
     - image: /img/asphalt-auto-automobile-1007410.jpg
