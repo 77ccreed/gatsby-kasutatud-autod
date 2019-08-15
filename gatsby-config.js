@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Valga Autoaed - kasutatud autode müük autoplatsil ja kodulehel',
     description:
-      'Autode müük. Sõidukite Euroopast tellimine ja trantsport. Abistame liisingu, laenu ja dokumentide vormistamisel. Lühi ja pikaajaline autorent. Komisjonimüük',
+      'Valga autoaed tegeleb kasutatud autode müügiga. Too oma sõiduk komisjonimüüki meie automüügiplatsile ja lisa kuulutus kodulehele',
     siteUrl: 'https://valgaautoaed.ee'
   },
   plugins: [
