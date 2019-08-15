@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: VALGA AUTOAED - autode müük
+title: VALGA AUTOAED - sõidukite müük
 image: /img/bmw_530_individual_3.0_142kw_10.jpg
 heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
 subheading: Kasutatud autode  müük automüügiplatsil ja kodulehel
