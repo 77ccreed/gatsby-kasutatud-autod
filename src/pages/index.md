@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: KASUTATUD AUTODE MÜÜK
+title: VALGA AUTOAED - autode müük
 image: /img/bmw_530_individual_3.0_142kw_10.jpg
 heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
-subheading: Valga autoplatsil ja kodulehel. Sõidukite komisjonimüük
+subheading: Kasutatud autode  müük automüügiplatsil ja kodulehel
 mainpitch:
   title: ESC Grupp OÜ
   description: >-
