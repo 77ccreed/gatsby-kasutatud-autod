@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: VALGA AUTOAED - sõidukite müük
-image: /img/bmw_530_individual_3.0_142kw_10.jpg
-heading: Kasutatud autode müük Valga autoplatsil ja kodulehel.
-subheading: Kasutatud autode  müük müügiplatsil ja kodulehel
+title: KASUTATUD AUTODE MÜÜK
+image: /img/audi_a4_s-line_2.5_tdi_120kw_6.jpg
+heading: Kasutatud autode müük Valgas
+subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
   title: ESC Grupp OÜ
   description: >-
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
 description: >-
-  Lisaks lai valik teisi teenuseid - abi sõidukite tellimisel ja trantspordil
+  Lai valik teisi teenuseid - abi sõidukite tellimisel ja trantspordil
   Euroopast, komisjonimüük kodulehel ja Valga autoplatsil.  Abistame autoostjat
   liisingu, laenu ja dokumentide vormistamisel. Huvi korral meie teenuste vastu
   võib sõnumi saata kontaktide lehel või helistada telefonil +372 503 0157. 
