@@ -11,20 +11,19 @@ mainpitch:
     ülevaatuse.
 description: >-
   Lai valik teisi teenuseid - abi sõidukite tellimisel ja trantspordil
-  Euroopast, komisjonimüük kodulehel ja Valga autoplatsil.  Abistame autoostjat
-  liisingu, laenu ja dokumentide vormistamisel. Huvi korral meie teenuste vastu
-  võib sõnumi saata kontaktide lehel või helistada telefonil +372 503 0157. 
+  Euroopast, komisjonimüük kodulehel ja Valga autoplatsil.  Huvi korral meie
+  teenuste vastu võib sõnumi saata kontaktide lehel või helistada telefonil +372
+  503 0157. 
 intro:
   blurbs:
     - image: /img/asphalt-auto-automobile-1007410.jpg
       text: >-
-        Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
-        müügieelse ülevaatuse. Pakume igakülgset abi dokumentide vormistamisel.
+        Kõik autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
+        ülevaatuse.
     - image: /img/asphalt-auto-car-327236.jpg
       text: >-
         Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
-        müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
-        Viljandi mnt 25 ja abi auto müügil ja dokumentide vormistamisel.
+        müügikuulutust meie kodulehel ja müügiteenust autoplatsil.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
