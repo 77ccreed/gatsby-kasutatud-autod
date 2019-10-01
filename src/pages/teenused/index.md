@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Pakutavad teenused
-image: /img/asphalt-auto-automobile-1007410.jpg
+image: /img/img_0999.jpg
 heading: Kasutatud autode müük
 description: >-
   Lisaks pakume sõidukite tellimise ja Euroopast trantspordi teenust.
