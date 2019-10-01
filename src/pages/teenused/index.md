@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Pakutavad teenused
-image: /img/img_0999.jpg
+image: /img/img_0801.jpg
 heading: Kasutatud autode müük
 description: >-
   Lisaks pakume sõidukite tellimise ja Euroopast trantspordi teenust.
