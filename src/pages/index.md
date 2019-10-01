@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KASUTATUD AUTODE MÜÜK
-image: /img/audi_a4_s-line_2.5_tdi_120kw_6.jpg
+image: /img/img_0808.jpg
 heading: Kasutatud autode müük Valgas
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
