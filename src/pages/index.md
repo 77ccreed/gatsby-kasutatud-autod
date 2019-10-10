@@ -5,7 +5,7 @@ image: /img/img_0808.jpg
 heading: Kasutatud autode müük Valgas
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
-  title: Helistada telefonil +372 503 0157
+  title: +372 503 0157
   description: >-
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
