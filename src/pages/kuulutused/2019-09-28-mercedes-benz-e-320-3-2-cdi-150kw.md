@@ -16,7 +16,7 @@ tags:
 ---
 ![Mercedes-Benz E 320 3.2 CDI 150kW](/img/mercedes-benz_e_320_3.2_cdi_150kw_1.jpg "Mercedes-Benz E 320 3.2 CDI 150kW")
 
-## Hind 4500 eurot
+## Hind 3850 eurot
 
 * Liik:	sõiduauto
 * Keretüüp:	universaal
