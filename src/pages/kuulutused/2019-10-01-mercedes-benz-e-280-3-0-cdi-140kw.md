@@ -14,11 +14,9 @@ tags:
   - automaat
   - diisel
 ---
-
-
 ![Mercedes-Benz E 280 3.0 CDI 140kW](/img/mercedes-benz_e_280_3.0_cdi_140kw_1.jpg "Mercedes-Benz E 280 3.0 CDI 140kW")
 
-## Hind 6750 eurot
+## Hind 5950 eurot
 
 * Liik:	sõiduauto
 * Keretüüp:	universaal
@@ -30,7 +28,7 @@ tags:
 * Käigukast:	automaat
 * Värvus:	must met.
 * VIN-kood:	WDB2112201B308451
-* Soodushind:	6750 EUR
+* Soodushind:	5950 EUR
 * KM 0% (käibemaksu ei lisandu)
 
 ![Mercedes-Benz E 280 3.0 CDI 140kW tagantvaade](/img/mercedes-benz_e_280_3.0_cdi_140kw_2.jpg "Mercedes-Benz E 280 3.0 CDI 140kW tagantvaade")
