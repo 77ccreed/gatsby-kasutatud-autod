@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: KASUTATUD AUTODE MÜÜK
-image: /img/img_0808.jpg
+image: /img/mercedes-benz_e_280_3.0_cdi_140kw_6.jpg
 heading: 'Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27'
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
