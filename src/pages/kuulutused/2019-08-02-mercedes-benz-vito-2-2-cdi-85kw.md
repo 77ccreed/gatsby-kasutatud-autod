@@ -16,7 +16,7 @@ tags:
 ---
 ![Mercedes-Benz Vito 2.2 CDI 85kW](/img/mercedes-benz_vito_2.2_cdi_85kw_1.jpg "Mercedes-Benz Vito 2.2 CDI 85kW")
 
-## Hind 9999 eurot
+## Hind 9499 eurot
 
 * Liik:	kaubik
 * Keretüüp:	väikekaubik
@@ -29,7 +29,7 @@ tags:
 * Värvus:	hõbedane met.
 * Reg. number	707BLJ
 * VIN-kood:	WDF63970313596506
-* Hind:	9999 EUR
+* Hind:	9499 EUR
 * sisaldab KM 20%
 
 ## VARUSTUS
