@@ -14,13 +14,9 @@ tags:
   - automaat
   - diisel
 ---
-
-
-
-
 ![Mercedes-Benz ML 270 2.6 CDI 120kW](/img/mercedes-benz_ml_270_2.6_cdi_120kw_1.jpg "Mercedes-Benz ML 270 2.6 CDI 120kW")
 
-## Hind 5750 eurot
+## Hind 4999 eurot
 
 * Liik:	maastur
 * Esmane reg:	2004
@@ -31,7 +27,7 @@ tags:
 * Käigukast:	automaat
 * Värvus:	sinine met.
 * VIN-kood:	WDC1631131A531514
-* Soodushind:	5750 EUR
+* Soodushind:	4999 EUR
 * KM 0% (käibemaksu ei lisandu)
 
 ![Mercedes-Benz ML 270 2.6 CDI 120kW tagantvaade](/img/mercedes-benz_ml_270_2.6_cdi_120kw_2.jpg "Mercedes-Benz ML 270 2.6 CDI 120kW tagantvaade")
