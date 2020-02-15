@@ -58,7 +58,7 @@ const TemplateWrapper = ({ children }) => {
               "postalCode": "68206"
             },
             "description": "Kasutatud autode müük Valga autoplatsil ja kodulehel.",
-            "name": "ESC Grupp OÜ",
+            "name": "SPORTLOM OÜ",
             "telephone": "+372 503 0157",
             "priceRange": "€€€€-€€€€€",
             "url": "https://valgaautoaed.ee/",
