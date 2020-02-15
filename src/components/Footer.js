@@ -8,11 +8,11 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-        <p style={{ 
-                color: '#ff4400',
-                fontSize:'2.5rem',
-                fontWeight: '650'
-            }}>Valga Autoaed</p>
+          <p style={{
+            color: '#ff4400',
+            fontSize: '2.5rem',
+            fontWeight: '650'
+          }}>Valga Autoaed</p>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
@@ -59,6 +59,11 @@ const Footer = class extends React.Component {
                     <li>
                       <Link className="navbar-item" to="/kontaktid">
                         Kontaktid
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/privaatsuspoliitika">
+                        Privaatsuspoliitika
                       </Link>
                     </li>
                   </ul>
