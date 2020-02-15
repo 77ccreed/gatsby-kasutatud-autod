@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
+import MyMap from '../components/Map'
+
 export const IndexPageTemplate = ({
   image,
   title,
@@ -111,6 +113,7 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </section>
+      {/*<MyMap />*/}
     </div>
   )
 
