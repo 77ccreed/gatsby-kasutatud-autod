@@ -13,7 +13,7 @@ const Järelmaks = () => {
         <div className="container">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <div className="section</div>">
+              <div className="section">
                 <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Järelmaksu tingimused</h1>
                 <p className="content">Oled vähemalt 21-aastane Eesti kodanik või Sul on elamisluba</p>
                 <p className="content">Sinu igakuine netosissetulek on vähemalt 280 eurot</p>
