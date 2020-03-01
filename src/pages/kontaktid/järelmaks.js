@@ -61,57 +61,326 @@ export default class Järelmaks extends React.Component {
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={'name'}>
-                    Nimi
+                <div className='columns'>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'name'}>
+                      Ees ja perekonnanimi
                   </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'text'}
-                      name={'name'}
-                      onChange={this.handleChange}
-                      id={'name'}
-                      required={true}
-                    />
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'name'}
+                        onChange={this.handleChange}
+                        id={'name'}
+                        required={true}
+                      />
+                    </div>
                   </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    E-mail
+                  <div className="field column">
+                    <label className="label" htmlFor={'email'}>
+                      E-mail
                   </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'email'}
-                      name={'email'}
-                      onChange={this.handleChange}
-                      id={'email'}
-                      required={true}
-                    />
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'email'}
+                        name={'email'}
+                        onChange={this.handleChange}
+                        id={'email'}
+                        required={true}
+                      />
+                    </div>
                   </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'message'}>
-                    Sõnum
+                  <div className="field column">
+                    <label className="label" htmlFor={'telefon'}>
+                      Telefoninumber
                   </label>
-                  <div className="control">
-                    <textarea
-                      className="textarea"
-                      name={'message'}
-                      onChange={this.handleChange}
-                      id={'message'}
-                      required={true}
-                    />
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'tel'}
+                        name={'telefon'}
+                        onChange={this.handleChange}
+                        id={'telefon'}
+                        required={true}
+                      />
+                    </div>
                   </div>
+
                 </div>
+
+                <div className='columns'>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'aadress'}>
+                      Aadress
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'aadress'}
+                        onChange={this.handleChange}
+                        id={'aadress'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'linn'}>
+                      Linn
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'linn'}
+                        onChange={this.handleChange}
+                        id={'linn'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'maakond'}>
+                      Maakond
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'maakond'}
+                        onChange={this.handleChange}
+                        id={'maakond'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'postiindeks'}>
+                      Postiindeks
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'postiindeks'}
+                        onChange={this.handleChange}
+                        id={'postiindeks'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+
+                </div>
+
+                <div className='columns'>
+                  <div className="field column">
+                    <label className="label" htmlFor={'isikukood'}>
+                      Isikukood
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'isikukood'}
+                        onChange={this.handleChange}
+                        id={'isikukood'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'doktuup'}>
+                      Dokumendi tüüp
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'doktuup'}
+                        onChange={this.handleChange}
+                        id={'doktuup'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'doknr'}>
+                      Dokumendi number
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'doknr'}
+                        onChange={this.handleChange}
+                        id={'doknr'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+
+                </div>
+
+
+
+                <div className='columns'>
+                  <div className="field column">
+                    <label className="label" htmlFor={'tookoht'}>
+                      Töökoht
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'tookoht'}
+                        onChange={this.handleChange}
+                        id={'tookoht'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'netosissetulek'}>
+                      Igakuine netosissetulek
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'netosissetulek'}
+                        onChange={this.handleChange}
+                        id={'netosissetulek'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'liisinglaen'}>
+                      Igakuised liisingu- ja laenumaksed
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'liisinglaen'}
+                        onChange={this.handleChange}
+                        id={'liisinglaen'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+
+                </div>
+
+                <div className='columns'>
+                  <div className="field column">
+                    <label className="label" htmlFor={'arvelduskonto'}>
+                      Arvelduskonto number
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'arvelduskonto'}
+                        onChange={this.handleChange}
+                        id={'arvelduskonto'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'pank'}>
+                      Pank
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'pank'}
+                        onChange={this.handleChange}
+                        id={'pank'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+
+                </div>
+                <div className='columns'>
+                  <div className="field column">
+                    <label className="label" htmlFor={'soidukinimi'}>
+                      Sõiduki nimi
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'soidukinimi'}
+                        onChange={this.handleChange}
+                        id={'soidukinimi'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'maksumus'}>
+                      Sõiduki maksumus
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'maksumus'}
+                        onChange={this.handleChange}
+                        id={'maksumus'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'osamakse'}>
+                      Osamaksete arv
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'osamakse'}
+                        onChange={this.handleChange}
+                        id={'osamakse'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'sissemakse'}>
+                      Sissemakse
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'sissemakse'}
+                        onChange={this.handleChange}
+                        id={'sissemakse'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+
+                </div>
+
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Saada
+                    Esita järelmaksutaotlus
                   </button>
 
 
-                  <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Järelmaksu tingimused</h1>
+                  <h2 className="title is-size-3 has-text-weight-bold is-bold-light">Järelmaksu tingimused</h2>
                   <p className="content">Oled vähemalt 21-aastane Eesti kodanik või Sul on elamisluba</p>
                   <p className="content">Sinu igakuine netosissetulek on vähemalt 280 eurot</p>
                   <p className="content">Sa täidad oma rahalisi kohustusi korrektselt</p>
