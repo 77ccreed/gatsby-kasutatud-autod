@@ -22,11 +22,11 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: 'is-active',
-            })
+            navBarActiveClass: 'is-active',
+          })
           : this.setState({
-              navBarActiveClass: '',
-            })
+            navBarActiveClass: '',
+          })
       }
     )
   }
@@ -41,11 +41,11 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <p style={{ 
+              <p style={{
                 color: '#ff4400',
-                fontSize:'1.2rem',
+                fontSize: '1.2rem',
                 fontWeight: '600'
-            }}>Valga Autoaed</p>
+              }}>Valga Autoaed</p>
             </Link>
             {/* Hamburger menu */}
             <div
@@ -75,6 +75,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/kontaktid">
                 Kontaktid
               </Link>
+              <Link className="navbar-item" to="/järelmaks">
+                Järelmaks
+                      </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
