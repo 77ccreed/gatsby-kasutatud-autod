@@ -7,7 +7,7 @@ const Järelmaks = () => {
     <Layout>
       <Helmet>
         <title>Kasutatud auto järelmaksuga - küsi pakkumist kodulehelt</title>
-        <meta name="description" content="Pakume koos Inbank-iga võimalust osta auto järelmaksuga. Täida küsimustik meie kodulehel või küsi pakkumist automüügiplatsil." />
+        <meta name="description" content="Pakume koos Inbank-iga võimalust osta auto järelmaksuga. Täida küsimustik meie kodulehel või küsi pakkumist automüügiplatsil Valgas." />
       </Helmet >
       <section className="section section--gradient">
         <div className="container">
