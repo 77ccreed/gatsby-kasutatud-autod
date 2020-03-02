@@ -21,7 +21,7 @@ intro:
       text: >-
         Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
         meile anda - selle võrra väheneb uue auto ostuhind.
-    - image: /img/audi-automobile-car-lights-1149831.jpg
+    - image: /img/audi-automobile-car-lights-cars-1149831.jpg
       text: >
         Sõidukite tellimise teenust. Võimalik on tellida nii sõiduauto,
         väikebuss, veoauto kui ka ehitustehnikat. Teostame põhjaliku sõiduki ja
