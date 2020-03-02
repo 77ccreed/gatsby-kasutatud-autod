@@ -8,7 +8,7 @@ description: >-
   Müügikuulutuste lisamist kodulehele ja komisjonimüüki autoplatsil.
 intro:
   blurbs:
-    - image: /img/asphalt-auto-automobile-1007410.jpg
+    - image: /img/grey-ford-focus-hatchback-1007410.jpg
       text: >
         Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
         müügieelse ülevaatuse. Pakume igakülgset abi dokumentide vormistamisel.
@@ -43,10 +43,10 @@ main:
     nõustame tuginedes aastatepikkusele kogemusele.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/asphalt-audi-automobile-38637.jpg
+    image: /img/black-audi-coupe-on-brown-road-38637.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/asphalt-auto-automobile-1007410.jpg
+    image: /img/grey-ford-focus-hatchback-1007410.jpg
   image3:
     alt: Coffee beans
     image: /img/automotive-black-coupe-80465.jpg
