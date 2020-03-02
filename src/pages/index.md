@@ -16,7 +16,7 @@ description: >-
   503 0157. 
 intro:
   blurbs:
-    - image: /img/asphalt-auto-automobile-1007410.jpg
+    - image: /img/grey-ford-focus-hatchback-1007410.jpg
       text: >-
         Kõik autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
         ülevaatuse.
