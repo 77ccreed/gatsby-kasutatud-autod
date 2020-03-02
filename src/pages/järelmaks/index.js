@@ -6,8 +6,8 @@ const Järelmaks = () => {
   return (
     <Layout>
       <Helmet>
-        <title>Auto järelmaksuga</title>
-        <meta name="description" content="Pakume koos Inbank-iga oma klientidele võimalust osta auto järelmaksuga. Täida küsimustik meie kodulehel või küsi pakkumist müügiplatsil." />
+        <title>Kasutatud auto järelmaksuga - küsi pakkumist kodulehelt</title>
+        <meta name="description" content="Pakume koos Inbank-iga võimalust osta auto järelmaksuga. Täida küsimustik meie kodulehel või küsi pakkumist automüügiplatsil." />
       </Helmet >
       <section className="section section--gradient">
         <div className="container">
@@ -39,6 +39,8 @@ const Järelmaks = () => {
                 <p className="content">Tutvu Inbanki erinevate finantseerimise võimalustega meie kodulehel ja küsi julgelt abi meie klienditeeninduselt.</p>
                 <p className="content">Kui oled lepingu sõlminud, vaata veelkord üle tingimused. Nii saad olla kindel, et täidad oma kohustused õigel viisil ja õigel ajal.</p>
                 <p className="content">Tutvu meie kirjadega tähelepanelikult ning anna meile kohe teada, kui Sinu kontaktandmed muutuvad.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?usp=sf_link" target="_blank" rel="noreferrer"
+               title="Järelmaks">
               </div>
             </div>
           </div>
