@@ -17,7 +17,7 @@ intro:
         Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
         müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
         Viljandi mnt 25 ja abi auto müügil ja dokumentide vormistamisel.
-    - image: /img/cars-parked-outside-on-concrete-road-235222.jpg
+    - image: /img/black-audi-coupe-on-brown-road-38637.jpg
       text: >-
         Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
         meile anda - selle võrra väheneb uue auto ostuhind.
