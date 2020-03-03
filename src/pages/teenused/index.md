@@ -8,7 +8,7 @@ description: >-
   Müügikuulutuste lisamist kodulehele ja komisjonimüüki autoplatsil.
 intro:
   blurbs:
-    - image: /img/grey-ford-focus-hatchback-1007410.jpg
+    - image: /img/asphalt-auto-car-327236.jpg
       text: >
         Kõik müüdavad autod on läbinud põhjaliku tehnilise taustakontrolli ja
         müügieelse ülevaatuse. Pakume igakülgset abi dokumentide vormistamisel.
@@ -17,11 +17,11 @@ intro:
         Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
         müügikuulutust meie kodulehel, müügiteenust autoplatsil aadressil
         Viljandi mnt 25 ja abi auto müügil ja dokumentide vormistamisel.
-    - image: /img/black-audi-coupe-on-brown-road-38637.jpg
+    - image: /img/asphalt-auto-car-327236.jpg
       text: >-
         Sõidukite vahetuse teenus. Kui soovite osta uue auto siis võite vana
         meile anda - selle võrra väheneb uue auto ostuhind.
-    - image: /img/audi-automobile-car-lights-cars-1149831.jpg
+    - image: /img/asphalt-auto-car-327236.jpg
       text: >
         Sõidukite tellimise teenust. Võimalik on tellida nii sõiduauto,
         väikebuss, veoauto kui ka ehitustehnikat. Teostame põhjaliku sõiduki ja
@@ -43,10 +43,10 @@ main:
     nõustame tuginedes aastatepikkusele kogemusele.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/black-audi-coupe-on-brown-road-38637.jpg
+    image: /img/asphalt-auto-car-327236.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/grey-ford-focus-hatchback-1007410.jpg
+    image: /img/asphalt-auto-car-327236.jpg
   image3:
     alt: Coffee beans
     image: /img/automotive-black-coupe-80465.jpg
