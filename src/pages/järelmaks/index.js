@@ -15,10 +15,10 @@ const Järelmaks = () => {
             <div className="column is-10 is-offset-1">
               <div className="section">
                 <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Järelmaksu tingimused</h1>
-                <p className="content">Oled vähemalt 21-aastane Eesti kodanik või Sul on elamisluba</p>
-                <p className="content">Sinu igakuine netosissetulek on vähemalt 280 eurot</p>
-                <p className="content">Sa täidad oma rahalisi kohustusi korrektselt</p>
-                <p className="content">Järelmaksusumma mida saame Sinule pakkuda, sõltub Sinu igakuisest sissetulekust ja kohustustest</p>
+                <p className="content">Oled vähemalt 21-aastane Eesti kodanik või Sul on elamisluba.</p>
+                <p className="content">Sinu igakuine netosissetulek on vähemalt 280 eurot.</p>
+                <p className="content">Sa täidad oma rahalisi kohustusi korrektselt.</p>
+                <p className="content">Järelmaksusumma, mida saame Sinule pakkuda, sõltub Sinu igakuisest sissetulekust ja kohustustest.</p>
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">Osamaksete tasumine</h2>
                 <p className="content">Saadame Sinu kodupanga internetipanka igal kuul e-arve. Osamaksete tasumise tähtaeg on iga kuu 12. kuupäev.</p>
                 <p className="content">Kui e-arve ei ole Sinuni jõudnud, täida vorm e-arve tellimiseks. Kui soovid makseid igakuiselt käsitsi teha, kasuta selleks kindlasti korrektset Inbanki arveldusarve numbrit ning viitenumbrit, mille leiad oma lepingust.</p>
