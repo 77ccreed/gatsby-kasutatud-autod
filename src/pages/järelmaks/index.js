@@ -39,7 +39,7 @@ const Järelmaks = () => {
                 <p className="content">Tutvu Inbanki erinevate finantseerimise võimalustega meie kodulehel ja küsi julgelt abi meie klienditeeninduselt.</p>
                 <p className="content">Kui oled lepingu sõlminud, vaata veelkord üle tingimused. Nii saad olla kindel, et täidad oma kohustused õigel viisil ja õigel ajal.</p>
                 <p className="content">Tutvu meie kirjadega tähelepanelikult ning anna meile kohe teada, kui Sinu kontaktandmed muutuvad.</p>
-                <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?usp=sf_link" target="_blank" rel="noreferrer"
+                <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
                   title="Järelmaks">Järelmaksu taotlemiseks täida kontaktvorm.</a>
               </div>
             </div>
