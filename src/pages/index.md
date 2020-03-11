@@ -5,25 +5,27 @@ image: /img/automobile-automotive-car-638479.jpg
 heading: 'Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27'
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
-  title: +372 503 0157
+  title: Lisainfo numbril +372 503 0157
   description: >-
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
 description: >-
-  Lai valik teisi teenuseid - abi sõidukite tellimisel ja trantspordil
-  Euroopast, komisjonimüük kodulehel ja Valga autoplatsil.  Huvi korral meie
-  teenuste vastu võib sõnumi saata kontaktide lehel või helistada telefonil +372
-  503 0157. 
+  Autode ja teiste sõidukite müük. Lai valik seotud teenuseid -  sõidukite
+  tellimine ja transport Euroopast, autode komisjonimüük kodulehel ja Valga
+  autoplatsil. Huvi korral meie teenuste vastu võib sõnumi saata kontaktide
+  lehel või helistada.
 intro:
   blurbs:
     - image: /img/grey-ford-focus-hatchback-1007410.jpg
       text: >-
-        Kõik autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
-        ülevaatuse.
+        Vajadusel aitame auto järelmaksu taotlemisel - meie partner on Inbank.
+        Täpsem info tingimuste kohta järelmaksu lehel. Lisainfot võib küsida
+        tulles meie müügiplatsile.
     - image: /img/asphalt-auto-car-327236.jpg
       text: >-
-        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
-        müügikuulutust meie kodulehel ja müügiteenust autoplatsil.
+        Kui soovid oma auto maha müüa võtame Teie sõiduki komisjonimüüki.
+        Komisjonitasu sisaldab müügikuulutust meie kodulehel ja müügiteenust
+        autoplatsil.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
