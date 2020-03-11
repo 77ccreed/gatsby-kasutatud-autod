@@ -205,7 +205,10 @@ export const productPageQuery = graphql`
               }
             }
           }
-   
+           image2 {
+            alt
+  
+          }
           image3 {
             alt
             image {
