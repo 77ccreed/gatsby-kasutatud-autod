@@ -7,7 +7,7 @@ const Privaatsuspoliitika = () => {
     <Layout>
       <Helmet>
         <title>SPORTLOM OÜ - privaatsuspoliitika</title>
-        <meta name="description" content="Liisingutaotluse saatmisel kinnitab tellija, et on tutvunud veebilehe valgaautoaed.ee privaatsuse ja andmekaitse tingimustega ning aktsepteerib neid." />
+        <meta name="description" content="Kirja või järelmaksutaotluse saatmisel kinnitab tellija, et on tutvunud veebilehe valgaautoaed.ee privaatsuse ja andmekaitse tingimustega ning aktsepteerib neid." />
       </Helmet >
       <section className="section section--gradient">
         <div className="container">

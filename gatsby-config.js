@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Valga Autoaed - kasutatud autode müük autoplatsil ja kodulehel',
     description:
-      'Valga autoaed tegeleb kasutatud autode müügiga. Too oma sõiduk komisjonimüüki meie automüügiplatsile ja lisa kuulutus kodulehele',
+      'Valga autoaed tegeleb kasutatud autode müügiga. Too oma auto komisjonimüüki meie müügiplatsile või vaata lisa teiste teenuste kohta',
     siteUrl: 'https://valgaautoaed.ee'
   },
   plugins: [

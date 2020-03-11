@@ -54,7 +54,7 @@ const TemplateWrapper = ({ children }) => {
               "@type": "PostalAddress",
               "addressCountry": "Estonia",
               "addressLocality": "Valga",
-              "streetAddress": "Viljandi mnt 25",
+              "streetAddress": "Viljandi mnt 27",
               "postalCode": "68206"
             },
             "description": "Kasutatud autode müük Valga autoplatsil ja kodulehel.",

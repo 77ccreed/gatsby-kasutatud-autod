@@ -136,8 +136,8 @@ const ProductPage = ({ data }) => {
   return (
     <Layout>
       <Helmet>
-        <title>Sõidukite müük autoplatsil ja kodulehel. Lühi- ja pikaajaline autorent</title>
-        <meta name="description" content="Sõidukite müük. Tellimine ja trantsport Euroopast. Komisjonimüük ja sõiduki vahetamise teenus. Autorent. Abistame dokumentide vormistamisel." />
+        <title>Autode ja teiste sõidukite müük autoplatsil ja kodulehel</title>
+        <meta name="description" content="Müüme sõidukeid nagu autod, mootorrattad ja paadid. Tellimine ja transport Euroopast. Komisjonimüük ja sõidukite vahetamise teenus." />
       </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}
@@ -205,10 +205,7 @@ export const productPageQuery = graphql`
               }
             }
           }
-          image2 {
-            alt
-           
-          }
+   
           image3 {
             alt
             image {
