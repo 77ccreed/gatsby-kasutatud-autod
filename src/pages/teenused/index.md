@@ -2,10 +2,11 @@
 templateKey: product-page
 title: Pakutavad teenused
 image: /img/automobile-automotive-car-638479.jpg
-heading: Kasutatud autode müük
+heading: Kasutatud autode ja teiste sõidukite müük
 description: >-
-  Lisaks pakume sõidukite tellimise ja Euroopast trantspordi teenust.
-  Müügikuulutuste lisamist kodulehele ja komisjonimüüki autoplatsil.
+  Lisaks autodele müüme sõidukeid nagu paadid ja mootorrattad. Pakume ka
+  sõidukite tellimise ja Euroopast trantspordi teenust. Müügikuulutuste lisamist
+  kodulehele ja komisjonimüüki autoplatsil.
 intro:
   blurbs:
     - image: /img/black-audi-coupe-on-brown-road-38637.jpg
@@ -39,16 +40,17 @@ main:
   description: >
     Kui soovite sõidukit liisingu või laenuga osta, pöörduge meie
     müügikonsultandi poole, kes leiab Teile parima lahenduse. Aitame klienti
-    sobiva liisingu või laenupartneri valmisel, taotluse esitamisega ning
-    nõustame tuginedes aastatepikkusele kogemusele.
+    sobiva liisingu või laenu valmisel, taotluse esitamisega ning nõustame
+    tuginedes aastatepikkusele kogemusele. Meie partner on Inbank. Täpsem info
+    järelmaksu lehel.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Kasutatud autode ja teiste sõidukite müük
     image: /img/audi-automobile-car-lights-cars-1149831.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Kasutatud autot on kindlam osta müügiplatsilt.
     image: /img/grey-ford-focus-hatchback-1007410.jpg
   image3:
-    alt: Coffee beans
+    alt: Aitame registreerimisel ja auto ostul.
     image: /img/automotive-black-coupe-80465.jpg
 testimonials:
   - author: – Einar Peterson
