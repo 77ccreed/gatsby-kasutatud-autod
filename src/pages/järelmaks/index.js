@@ -43,7 +43,7 @@ const Järelmaks = () => {
   title="Järelmaks">Järelmaksu taotlemiseks täida kontaktvorm.</a>*/}
                 <hr />
                 <p className="is-size-4 has-text-info">Järelmaksu taotlemiseks täida kontaktvorm.</p>
-                <p className="content">  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Laadimine…</iframe></p>
+                <p className="content">  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?embedded=true" width="700" height="1100" frameborder="0" marginheight="0" marginwidth="0">Laadimine…</iframe></p>
               </div>
             </div>
           </div>
