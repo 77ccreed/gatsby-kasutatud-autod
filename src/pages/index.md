@@ -2,10 +2,12 @@
 templateKey: index-page
 title: Kasutatud autode müük
 image: /img/automobile-automotive-car-638479.jpg
-heading: 'Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27'
+heading: >-
+  Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27. Lisainfo numbril
+  +372 503 0157
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
-  title: Lisainfo numbril +372 503 0157
+  title: Auto järelmaksuga - täida küsimustik järelmaksu lehel
   description: >-
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
@@ -19,8 +21,8 @@ intro:
     - image: /img/grey-ford-focus-hatchback-1007410.jpg
       text: >-
         Vajadusel aitame auto järelmaksu taotlemisel - meie partner on Inbank.
-        Täpsem info tingimuste kohta järelmaksu lehel. Lisainfot võib küsida
-        tulles meie müügiplatsile.
+        Tutvu tingimustega ja esita taotlus järelmaksu lehel. Lisainfot võib
+        küsida tulles meie müügiplatsile.
     - image: /img/asphalt-auto-car-327236.jpg
       text: >-
         Kui soovid oma auto maha müüa võtame Teie sõiduki komisjonimüüki.
