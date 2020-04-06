@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Pakutavad teenused
-image: /img/automobile-automotive-car-638479.jpg
+image: /img/kasutatud-autod-valgas.jpg
 heading: Kasutatud autode ja teiste sõidukite müük
 description: >-
   Lisaks autodele müüme sõidukeid nagu paadid ja mootorrattad. Pakume ka
