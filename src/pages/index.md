@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kasutatud autode müük
-image: /img/automobile-automotive-car-638479.jpg
+image: /img/kasutatud-autod-valgas.jpg
 heading: >-
   Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27. Lisainfo numbril
   +372 503 0157
