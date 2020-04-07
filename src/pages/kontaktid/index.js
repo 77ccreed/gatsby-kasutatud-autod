@@ -45,8 +45,13 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Kontaktid</h1>
+              <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                title="Järelmaks">Järelmaksu taotlemiseks ava küsimustiku siin.</a>
+              <hr />
               <p>Kirja võib saata siinsamas või aadressil valgamoto@gmail.com</p>
               <p>Telefon +372 503 0157</p>
+              <hr />
+
               <form
                 name="contact"
                 method="post"
@@ -63,35 +68,59 @@ export default class Index extends React.Component {
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={'name'}>
-                    Nimi
+
+                <div className='columns'>
+                  <div className="field column">
+                    <div className="field">
+                      <label className="label" htmlFor={'name'}>
+                        Nimi
                   </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'text'}
-                      name={'name'}
-                      onChange={this.handleChange}
-                      id={'name'}
-                      required={true}
-                    />
+                      <div className="control">
+                        <input
+                          className="input"
+                          type={'text'}
+                          name={'name'}
+                          onChange={this.handleChange}
+                          id={'name'}
+                          required={true}
+                        />
+                      </div>
+                    </div>
                   </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    E-mail
+
+                  <div className="field column">
+                    <div className="field">
+                      <label className="label" htmlFor={'email'}>
+                        E-mail
                   </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'email'}
-                      name={'email'}
-                      onChange={this.handleChange}
-                      id={'email'}
-                      required={true}
-                    />
+                      <div className="control">
+                        <input
+                          className="input"
+                          type={'email'}
+                          name={'email'}
+                          onChange={this.handleChange}
+                          id={'email'}
+                          required={true}
+                        />
+                      </div>
+                    </div>
                   </div>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'telefon'}>
+                      Telefoninumber
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'tel'}
+                        name={'telefon'}
+                        onChange={this.handleChange}
+                        id={'telefon'}
+                      />
+                    </div>
+                  </div>
+
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>

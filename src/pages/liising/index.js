@@ -19,6 +19,10 @@ const Järelmaks = () => {
                 <p className="content">Sinu igakuine netosissetulek on vähemalt 280 eurot.</p>
                 <p className="content">Sa täidad oma rahalisi kohustusi korrektselt.</p>
                 <p className="content">Järelmaksusumma, mida saame Sinule pakkuda, sõltub Sinu igakuisest sissetulekust ja kohustustest.</p>
+                <hr />
+                <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                  title="Järelmaks">Järelmaksu taotlemiseks ava küsimustiku siin.</a>
+                <hr />
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">Osamaksete tasumine</h2>
                 <p className="content">Saadame Sinu kodupanga internetipanka igal kuul e-arve. Osamaksete tasumise tähtaeg on iga kuu 12. kuupäev.</p>
                 <p className="content">Kui e-arve ei ole Sinuni jõudnud, täida vorm e-arve tellimiseks. Kui soovid makseid igakuiselt käsitsi teha, kasuta selleks kindlasti korrektset Inbanki arveldusarve numbrit ning viitenumbrit, mille leiad oma lepingust.</p>
@@ -39,8 +43,9 @@ const Järelmaks = () => {
                 <p className="content">Tutvu Inbanki erinevate finantseerimise võimalustega meie kodulehel ja küsi julgelt abi meie klienditeeninduselt.</p>
                 <p className="content">Kui oled lepingu sõlminud, vaata veelkord üle tingimused. Nii saad olla kindel, et täidad oma kohustused õigel viisil ja õigel ajal.</p>
                 <p className="content">Tutvu meie kirjadega tähelepanelikult ning anna meile kohe teada, kui Sinu kontaktandmed muutuvad.</p>
+                <hr />
                 <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                  title="Järelmaks">Järelmaksu taotlemiseks täida kontaktvorm.</a>
+                  title="Järelmaks">Järelmaksu taotlemiseks ava küsimustiku siin.</a>
                 {/* <hr />
                 <p className="is-size-4 has-text-info">Järelmaksu taotlemiseks täida kontaktvorm.</p>
                 <p className="content" style={{
