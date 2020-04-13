@@ -5,7 +5,7 @@ date: 2019-09-28T15:19:23.333Z
 description: >-
   2004. aasta universaalkerega sõiduauto Mercedes-Benz E 320. Autol on
   tagarattavedu, automaat käigukast ja diiselmootor.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/mercedes-benz_e_320_3.2_cdi_150kw_1.jpg
 tags:
   - mercedes-benz
@@ -31,9 +31,31 @@ tags:
 
 ![Mercedes-Benz E 320 3.2 CDI 150kW tagantvaade](/img/mercedes-benz_e_320_3.2_cdi_150kw_2.jpg "Mercedes-Benz E 320 3.2 CDI 150kW tagantvaade")
 
+![Mercedes-Benz E 320 3.2 CDI 150kW küljelt vaade](/img/mercedes-benz_e_320_3.2_cdi_150kw_3.jpg "Mercedes-Benz E 320 3.2 CDI 150kW küljelt vaade")
+
+
+
+![Mercedes-Benz E 320 3.2 CDI 150kW juhiiste](/img/mercedes-benz_e_320_3.2_cdi_150kw_4.jpg "Mercedes-Benz E 320 3.2 CDI 150kW juhiiste")
+
+
+
+![Mercedes-Benz E 320 3.2 CDI 150kW tagaiste](/img/mercedes-benz_e_320_3.2_cdi_150kw_5.jpg "Mercedes-Benz E 320 3.2 CDI 150kW tagaiste")
+
+
+
+![Mercedes-Benz E 320 3.2 CDI 150kW juhiiste küljelt](/img/mercedes-benz_e_320_3.2_cdi_150kw_6.jpg "Mercedes-Benz E 320 3.2 CDI 150kW juhiiste küljelt")
+
+
+
+![Mercedes-Benz E 320 3.2 CDI 150kW vaade tagant ette](/img/mercedes-benz_e_320_3.2_cdi_150kw_7.jpg "Mercedes-Benz E 320 3.2 CDI 150kWaade tagant ette")
+
+![Mercedes-Benz E 320 3.2 CDI 150kW rool](/img/mercedes-benz_e_320_3.2_cdi_150kw_8.jpg "Mercedes-Benz E 320 3.2 CDI 150kW rool")
+
+<!--StartFragment-->
+
 ## VARUSTUS
 
-**TURVA- JA OHUTUSVARUSTUS**
+### TURVA- JA OHUTUSVARUSTUS
 
 * Roolivõimendi
 * Kesklukustus (puldiga)
@@ -46,9 +68,7 @@ tags:
 * Vihmasensor
 * Turvavööde eelpingutid esiistmetel
 
-![Mercedes-Benz E 320 3.2 CDI 150kW küljelt vaade](/img/mercedes-benz_e_320_3.2_cdi_150kw_3.jpg "Mercedes-Benz E 320 3.2 CDI 150kW küljelt vaade")
-
-**MUGAVUSVARUSTUS**
+### MUGAVUSVARUSTUS
 
 * Kliimaautomaatik
 * Elektrilised akende tõstukid
@@ -58,9 +78,7 @@ tags:
 * Parkimisandurid (ees, taga)
 * Peeglid päikesesirmides (valgustusega)
 
-![Mercedes-Benz E 320 3.2 CDI 150kW juhiiste](/img/mercedes-benz_e_320_3.2_cdi_150kw_4.jpg "Mercedes-Benz E 320 3.2 CDI 150kW juhiiste")
-
-**SISUSTUS**
+### SISUSTUS
 
 * Nahkpolster
 * Elektriliselt reguleeritavad istmed
@@ -73,57 +91,54 @@ tags:
 * Iluliistud salongis
 * Jalamatid (tekstiilist)
 
-![Mercedes-Benz E 320 3.2 CDI 150kW tagaiste](/img/mercedes-benz_e_320_3.2_cdi_150kw_5.jpg "Mercedes-Benz E 320 3.2 CDI 150kW tagaiste")
-
-**AUDIO, VIDEO, KOMMUNIKATSIOON**
+### AUDIO, VIDEO, KOMMUNIKATSIOON
 
 * Stereo (originaal)
 * Ekraan (ees)
 * Navigatsiooniseade
 * Autokompuuter
 
-![Mercedes-Benz E 320 3.2 CDI 150kW juhiiste küljelt](/img/mercedes-benz_e_320_3.2_cdi_150kw_6.jpg "Mercedes-Benz E 320 3.2 CDI 150kW juhiiste küljelt")
-
-**REHVID JA VELJED**
+### REHVID JA VELJED
 
 * Suverehvid
 * Valuveljed (R17)
 
-**TULED**
+### TULED
 
 * Xenon
 * Esitulede pesurid
 * Udutuled (eesmised, tagumine)
 
-**MUU VARUSTUS**
+### MUU VARUSTUS
 
 * Katusereelingud
 * Välistemperatuuri näidik
 * Pagasikate
 
-![Mercedes-Benz E 320 3.2 CDI 150kW vaade tagant ette](/img/mercedes-benz_e_320_3.2_cdi_150kw_7.jpg "Mercedes-Benz E 320 3.2 CDI 150kWaade tagant ette")
-
 ## TEHNILISED NÄITAJAD
 
-**KERE**
+### KERE
 
-* Istekohti:	5
-* Uste arv:	5
+| Istekohti: | 5   |
+| ---------- | --- |
+| Uste arv:  | 5   |
 
-**MOOTOR**
+### MOOTOR
 
-* Võimsus:	150 kW
+| Võimsus: | 150 kW |
+| -------- | ------ |
 
-![Mercedes-Benz E 320 3.2 CDI 150kW rool](/img/mercedes-benz_e_320_3.2_cdi_150kw_8.jpg "Mercedes-Benz E 320 3.2 CDI 150kW rool")
+### KÜTUS
 
-**KÜTUS**
+| Kütus: | diisel |
+| ------ | ------ |
 
-* Kütus:	diisel
+## MUU INFORMATSIOON
 
-**MUU INFORMATSIOON**
+Toodud riigist:**Saksamaa**\
+Sõiduki asukoht:**Valga**, Eesti
 
-* Toodud riigist: Saksamaa
-* Sõiduki asukoht: Valga, Eesti
+<!--EndFragment-->
 
 Auto on lisatud auto24 lehele ja kättesaadav aadressil:
 
