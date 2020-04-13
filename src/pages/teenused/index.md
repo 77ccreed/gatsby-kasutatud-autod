@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Pakutavad teenused
-image: /img/kasutatud-autod-valgas.jpg
+image: /img/kasutatud-autod.jpg
 heading: Kasutatud autode ja teiste sõidukite müük
 description: >-
   Lisaks autodele müüme sõidukeid nagu paadid ja mootorrattad. Pakume ka
@@ -62,7 +62,7 @@ testimonials:
     quote: >-
       Aitame registreerimisel ja kui auto ostul vaja finantseeringut mõnest
       pangast või liisingettevõttest, siis ka sellega.
-full_image: /img/automobile-automotive-car-638479.jpg
+full_image: /img/kasutatud-autod.jpg
 pricing:
   heading: Soodne autorent.
   description: Kvaliteetne ning soodsa hinnaga autorenditeenus.
