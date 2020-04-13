@@ -7,7 +7,9 @@ heading: >-
   +372 503 0157
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
-  title: Osta auto järelmaksuga - selleks täida küsimustik järelmaksu lehel
+  title: >-
+    Võimalus osta auto järelmaksuga - tutvu tingimustega ja täida taotlus
+    järelmaksu lehel
   description: >-
     Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
