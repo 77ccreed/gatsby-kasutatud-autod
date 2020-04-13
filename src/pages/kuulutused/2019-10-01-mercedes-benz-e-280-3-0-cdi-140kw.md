@@ -5,7 +5,7 @@ date: 2019-10-01T11:01:26.339Z
 description: >-
   2008. aasta Mercedes-Benz. Autol on tagarattavedu, automaat käigukast ja
   diiselmootor.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/mercedes-benz_e_280_3.0_cdi_140kw_1.jpg
 tags:
   - mercedes-benz
@@ -33,9 +33,29 @@ tags:
 
 ![Mercedes-Benz E 280 3.0 CDI 140kW tagantvaade](/img/mercedes-benz_e_280_3.0_cdi_140kw_2.jpg "Mercedes-Benz E 280 3.0 CDI 140kW tagantvaade")
 
+![Mercedes-Benz E 280 3.0 CDI 140kW küljelt](/img/mercedes-benz_e_280_3.0_cdi_140kw_3.jpg "Mercedes-Benz E 280 3.0 CDI 140kW küljelt")
+
+
+
+![Mercedes-Benz E 280 3.0 CDI 140kW juhiiste](/img/mercedes-benz_e_280_3.0_cdi_140kw_7.jpg "Mercedes-Benz E 280 3.0 CDI 140kW juhiiste")
+
+
+
+![Mercedes-Benz E 280 3.0 CDI 140kW vaade tagant](/img/mercedes-benz_e_280_3.0_cdi_140kw_6.jpg "Mercedes-Benz E 280 3.0 CDI 140kW vaade tagant")
+
+
+
+![Mercedes-Benz E 280 3.0 CDI 140kW tagumine iste](/img/mercedes-benz_e_280_3.0_cdi_140kw_5.jpg "Mercedes-Benz E 280 3.0 CDI 140kW tagumine iste")
+
+
+
+![Mercedes-Benz E 280 3.0 CDI 140kW juhiiste](/img/mercedes-benz_e_280_3.0_cdi_140kw_4.jpg "Mercedes-Benz E 280 3.0 CDI 140kW juhiiste")
+
+<!--StartFragment-->
+
 ## VARUSTUS
 
-**TURVA- JA OHUTUSVARUSTUS**
+### TURVA- JA OHUTUSVARUSTUS
 
 * Roolivõimendi
 * Kesklukustus (puldiga)
@@ -48,9 +68,7 @@ tags:
 * Vihmasensor
 * Turvavööde eelpingutid esiistmetel
 
-![Mercedes-Benz E 280 3.0 CDI 140kW küljelt](/img/mercedes-benz_e_280_3.0_cdi_140kw_3.jpg "Mercedes-Benz E 280 3.0 CDI 140kW küljelt")
-
-**MUGAVUSVARUSTUS**
+### MUGAVUSVARUSTUS
 
 * Kliimaautomaatik
 * Elektrilised akende tõstukid
@@ -59,9 +77,7 @@ tags:
 * Parkimisandurid (ees, taga)
 * Peeglid päikesesirmides (valgustusega)
 
-![Mercedes-Benz E 280 3.0 CDI 140kW juhiiste](/img/mercedes-benz_e_280_3.0_cdi_140kw_7.jpg "Mercedes-Benz E 280 3.0 CDI 140kW juhiiste")
-
-**SISUSTUS**
+### SISUSTUS
 
 * Poolnahkpolster
 * Elektriliselt reguleeritavad istmed
@@ -72,28 +88,24 @@ tags:
 * Käetugi ees (laekaga)
 * Jalamatid (veluurist)
 
-![Mercedes-Benz E 280 3.0 CDI 140kW vaade tagant](/img/mercedes-benz_e_280_3.0_cdi_140kw_6.jpg "Mercedes-Benz E 280 3.0 CDI 140kW vaade tagant")
-
-**AUDIO, VIDEO, KOMMUNIKATSIOON**
+### AUDIO, VIDEO, KOMMUNIKATSIOON
 
 * Stereo (originaal)
 * Ekraan (ees)
 * Navigatsiooniseade
 
-![Mercedes-Benz E 280 3.0 CDI 140kW tagumine iste](/img/mercedes-benz_e_280_3.0_cdi_140kw_5.jpg "Mercedes-Benz E 280 3.0 CDI 140kW tagumine iste")
-
-**REHVID JA VELJED**
+### REHVID JA VELJED
 
 * Talverehvid (lamellrehvid)
 * Valuveljed
 
-**TULED**
+### TULED
 
 * Xenon
 * Esitulede pesurid
 * Udutuled (eesmised, tagumine)
 
-**MUU VARUSTUS**
+### MUU VARUSTUS
 
 * Katusereelingud
 * Välistemperatuuri näidik
@@ -103,28 +115,27 @@ tags:
 * Tagaklaasi puhasti
 * Veokonks (elektriline)
 
-![Mercedes-Benz E 280 3.0 CDI 140kW juhiiste](/img/mercedes-benz_e_280_3.0_cdi_140kw_4.jpg "Mercedes-Benz E 280 3.0 CDI 140kW juhiiste")
-
 ## TEHNILISED NÄITAJAD
 
-**KERE**
+### KERE
 
-* Istekohti:	5
-* Uste arv:	5
+| Istekohti: | 5   |
+| ---------- | --- |
+| Uste arv:  | 5   |
 
-**MOOTOR**
+### MOOTOR
 
-* Võimsus:	140 kW
+| Võimsus: | 140 kW |
+| -------- | ------ |
 
-**KÜTUS**
+### KÜTUS
 
-* Kütus:	diisel
+| Kütus: | diisel |
+| ------ | ------ |
 
-**MUU INFORMATSIOON**
+## MUU INFORMATSIOON
 
-* Toodud riigist: Saksamaa
-* Sõiduki asukoht: Eesti
+Toodud riigist:**Saksamaa**\
+Sõiduki asukoht: Eesti
 
-Auto on lisatud auto24 lehele ja leitav aadressil:
-
-<https://www.auto24.ee/kasutatud/auto.php?id=3214649&rhash=9036>
+<!--EndFragment-->
