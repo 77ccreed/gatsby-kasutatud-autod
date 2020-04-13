@@ -5,7 +5,7 @@ date: 2019-08-02T16:28:57.376Z
 description: >-
   2010. aasta kaubik Mercedes-Benz Vito. Autol on tagasillavedu, manuaal
   käigukast ja diiselmootor
-featuredpost: true
+featuredpost: false
 featuredimage: /img/mercedes-benz_vito_2.2_cdi_85kw_1.jpg
 tags:
   - mercedes-benz
@@ -32,9 +32,21 @@ tags:
 * Hind:	9499 EUR
 * sisaldab KM 20%
 
+![Mercedes-Benz Vito 2.2 CDI 85kW tagantvaade](/img/mercedes-benz_vito_2.2_cdi_85kw_2.jpg "tagantvaade")
+
+
+
+![Mercedes-Benz Vito 2.2 CDI 85kW vaade juhiistmele](/img/mercedes-benz_vito_2.2_cdi_85kw_3.jpg "Mercedes-Benz Vito 2.2 CDI 85kW vaade juhiistmele")
+
+
+
+![Mercedes-Benz Vito 2.2 CDI 85kW seest vaade](/img/mercedes-benz_vito_2.2_cdi_85kw_4.jpg "Mercedes-Benz Vito 2.2 CDI 85kW seest vaade")
+
+<!--StartFragment-->
+
 ## VARUSTUS
 
-**TURVA- JA OHUTUSVARUSTUS**
+### TURVA- JA OHUTUSVARUSTUS
 
 * Roolivõimendi
 * Kesklukustus (puldiga)
@@ -46,9 +58,7 @@ tags:
 * Lisapidurituli
 * Vihmasensor
 
-![Mercedes-Benz Vito 2.2 CDI 85kW tagantvaade](/img/mercedes-benz_vito_2.2_cdi_85kw_2.jpg "tagantvaade")
-
-**MUGAVUSVARUSTUS**
+### MUGAVUSVARUSTUS
 
 * Konditsioneer
 * 2x elektrilised akende tõstukid
@@ -56,9 +66,7 @@ tags:
 * Toonitud klaasid
 * Peeglid päikesesirmides
 
-![Mercedes-Benz Vito 2.2 CDI 85kW vaade juhiistmele](/img/mercedes-benz_vito_2.2_cdi_85kw_3.jpg "Mercedes-Benz Vito 2.2 CDI 85kW vaade juhiistmele")
-
-**SISUSTUS**
+### SISUSTUS
 
 * Tekstiilpolster
 * Nahkkattega rool
@@ -66,60 +74,63 @@ tags:
 * Topsihoidjad (ees, taga)
 * Jalamatid (kummist)
 
-**AUDIO, VIDEO, KOMMUNIKATSIOON**
+### AUDIO, VIDEO, KOMMUNIKATSIOON
 
 * Stereo (CD, originaal)
-* REHVID JA VELJED
+
+### REHVID JA VELJED
+
 * Talverehvid (naastrehvid)
 * Valuveljed
 * Autoga antakse kaasa (suverehvid)
 
-**TULED**
+### TULED
 
 * Päevasõidutulede automaatne lülitus
 * Udutuled (eesmised, tagumine)
 
-**MUU VARUSTUS**
+### MUU VARUSTUS
 
 * Välistemperatuuri näidik
 * Tagaklaasi soojendus
 * Tagaklaasi puhasti
 * Veokonks
 
-![Mercedes-Benz Vito 2.2 CDI 85kW seest vaade](/img/mercedes-benz_vito_2.2_cdi_85kw_4.jpg "Mercedes-Benz Vito 2.2 CDI 85kW seest vaade")
-
 ## TEHNILISED NÄITAJAD
 
-**KERE**
+### KERE
 
-* Istekohti:	9
-* Uste arv:	4
-* Pikkus:	4993 mm
-* Laius:	1906 mm
-* Kõrgus:	1903 mm
+| Istekohti: | 9       |
+| ---------- | ------- |
+| Uste arv:  | 4       |
+| Pikkus:    | 4993 mm |
+| Laius:     | 1906 mm |
+| Kõrgus:    | 1903 mm |
 
-**KÜTUS**
+### KÜTUS
 
-* Kütus:	diisel
-* Kütusekulu keskmine:	8,2 l/100 km
+| Kütus:               | diisel       |
+| -------------------- | ------------ |
+| Kütusekulu keskmine: | 8,2 l/100 km |
 
-**MOOTOR**
+### MOOTOR
 
-* Võimsus:	85 kW
+| Võimsus: | 85 kW |
+| -------- | ----- |
 
-**MASSID, MÕÕDUD**
+### MASSID, MÕÕDUD
 
-* Tühimass:	1815 kg
-* Täismass:	2940 kg
-* Kandevõime:	1125 kg
+| Tühimass:   | 1815 kg |
+| ----------- | ------- |
+| Täismass:   | 2940 kg |
+| Kandevõime: | 1125 kg |
 
-**MUU INFORMATSIOON**
+## MUU INFORMATSIOON
 
-* Eestis arvel
-* Toodud riigist: Saksamaa
-* Sõiduki asukoht: Eesti
-* kaks võtit
+Eestis arvel\
+Toodud riigist:**Saksamaa**\
+Sõiduki asukoht: Eesti\
+\
+kaks võtit
 
-Auto on lisatud auto24 lehele ja kättesaadav aadressil:
-
-<http://www.auto24.ee/used/1985108>
+<!--EndFragment-->
