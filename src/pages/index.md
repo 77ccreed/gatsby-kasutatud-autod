@@ -10,9 +10,7 @@ mainpitch:
   title: >-
     Võimalus osta auto järelmaksuga - tutvu tingimustega ja täida taotlus
     järelmaksu lehel
-  description: >-
-    Autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
-    ülevaatuse.
+  description: Autod on läbinud tehnilise taustakontrolli ja müügieelse ülevaatuse.
 description: >-
   Autode ja teiste sõidukite müük. Lai valik seotud teenuseid -  sõidukite
   tellimine ja transport Euroopast, autode komisjonimüük kodulehel ja Valga
