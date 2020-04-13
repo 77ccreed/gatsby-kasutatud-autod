@@ -35,9 +35,31 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 
 ![Audi A4 S- LINE 2.5 TDI 120kW valisvaade tagant](/img/audi_a4_s-line_2.5_tdi_120kw_2.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade tagant")
 
+
+
+![Audi A4 S- LINE 2.5 TDI 120kW välisvaade küljelt](/img/audi_a4_s-line_2.5_tdi_120kw_3.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade küljelt")
+
+![Audi A4 S- LINE 2.5 TDI 120kW seestvaade](/img/audi_a4_s-line_2.5_tdi_120kw_5.jpg "Audi A4 S- LINE 2.5 TDI 120kW seestvaade")
+
+**SISUSTUS**
+
+*
+
+![Audi A4 S- LINE 2.5 TDI 120kW veljed](/img/audi_a4_s-line_2.5_tdi_120kw_7.jpg "Audi A4 S- LINE 2.5 TDI 120kW veljed")
+
+
+
+![Audi A4 S- LINE 2.5 TDI 120kW välisvaade eest](/img/audi_a4_s-line_2.5_tdi_120kw_4.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade eest")
+
+
+
+![Audi A4 S- LINE 2.5 TDI 120kW seestvaade tagant ette](/img/audi_a4_s-line_2.5_tdi_120kw_6.jpg "Audi A4 S- LINE 2.5 TDI 120kW seestvaade tagant ette")
+
+<!--StartFragment-->
+
 ## VARUSTUS
 
-**TURVA- JA OHUTUSVARUSTUS**
+### TURVA- JA OHUTUSVARUSTUS
 
 * Roolivõimendi
 * Kesklukustus (puldiga)
@@ -48,9 +70,7 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 * Veojõukontroll
 * Lisapidurituli
 
-![Audi A4 S- LINE 2.5 TDI 120kW välisvaade küljelt](/img/audi_a4_s-line_2.5_tdi_120kw_3.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade küljelt")
-
-**MUGAVUSVARUSTUS**
+### MUGAVUSVARUSTUS
 
 * Kliimaautomaatik
 * Elektrilised akende tõstukid
@@ -58,9 +78,7 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 * Püsikiiruse hoidja
 * Peeglid päikesesirmides (valgustusega)
 
-![Audi A4 S- LINE 2.5 TDI 120kW seestvaade](/img/audi_a4_s-line_2.5_tdi_120kw_5.jpg "Audi A4 S- LINE 2.5 TDI 120kW seestvaade")
-
-**SISUSTUS**
+### SISUSTUS
 
 * Poolnahkpolster
 * Sportistmed
@@ -74,26 +92,24 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 * Käetugi taga (laekaga)
 * Iluliistud salongis
 * Jalamatid (veluurist)
-* AUDIO, VIDEO, KOMMUNIKATSIOON
+
+### AUDIO, VIDEO, KOMMUNIKATSIOON
+
 * BOSE stereo
 * Autokompuuter
 
-![Audi A4 S- LINE 2.5 TDI 120kW veljed](/img/audi_a4_s-line_2.5_tdi_120kw_7.jpg "Audi A4 S- LINE 2.5 TDI 120kW veljed")
-
-**REHVID JA VELJED**
+### REHVID JA VELJED
 
 * Talverehvid (lamellrehvid)
 * Valuveljed (R16)
 
-![Audi A4 S- LINE 2.5 TDI 120kW välisvaade eest](/img/audi_a4_s-line_2.5_tdi_120kw_4.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade eest")
-
-**TULED**
+### TULED
 
 * Xenon (lähituled)
 * Esitulede pesurid
 * Udutuled
 
-**MUU VARUSTUS**
+### MUU VARUSTUS
 
 * Katusereelingud
 * Välistemperatuuri näidik
@@ -101,28 +117,27 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 * Pagasikate
 * Salongi ja pakiruumi eraldusvõrk
 
-![Audi A4 S- LINE 2.5 TDI 120kW seestvaade tagant ette](/img/audi_a4_s-line_2.5_tdi_120kw_6.jpg "Audi A4 S- LINE 2.5 TDI 120kW seestvaade tagant ette")
-
 ## TEHNILISED NÄITAJAD
 
-**KERE**
+### KERE
 
-* Istekohti:	5
-* Uste arv:	5
+| Istekohti: | 5   |
+| ---------- | --- |
+| Uste arv:  | 5   |
 
-**MOOTOR**
+### MOOTOR
 
-* Võimsus:	120 kW
+| Võimsus: | 120 kW |
+| -------- | ------ |
 
-**KÜTUS**
+### KÜTUS
 
-* Kütus:	diisel
+| Kütus: | diisel |
+| ------ | ------ |
 
-**MUU INFORMATSIOON**
+## MUU INFORMATSIOON
 
-* Toodud riigist: Saksamaa
-* Sõiduki asukoht: Valga, Eesti
+Toodud riigist:**Saksamaa**\
+Sõiduki asukoht:**Valga**, Eesti
 
-Auto on lisatud auto24 lehele ja kättesaadav aadressil:
-
-<https://www.auto24.ee/used/3111580>
+<!--EndFragment-->
