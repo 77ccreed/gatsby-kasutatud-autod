@@ -5,7 +5,7 @@ date: 2019-07-29T09:00:46.705Z
 description: >-
   Universaalkerega 2003. aasta Audi A4. Autol on manuaal käigukast, esisillavedu
   ja diiselmootor.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/audi_a4_s-line_2.5_tdi_120kw_1.jpg
 tags:
   - audi
@@ -41,9 +41,7 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 
 ![Audi A4 S- LINE 2.5 TDI 120kW seestvaade](/img/audi_a4_s-line_2.5_tdi_120kw_5.jpg "Audi A4 S- LINE 2.5 TDI 120kW seestvaade")
 
-**SISUSTUS**
 
-*
 
 ![Audi A4 S- LINE 2.5 TDI 120kW veljed](/img/audi_a4_s-line_2.5_tdi_120kw_7.jpg "Audi A4 S- LINE 2.5 TDI 120kW veljed")
 
