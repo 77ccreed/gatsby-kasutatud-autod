@@ -2,9 +2,7 @@
 templateKey: index-page
 title: Kasutatud autode müük
 image: /img/kasutatud-autod.jpg
-heading: >-
-  Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27. Lisainfo numbril
-  +372 503 0157
+heading: 'Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27. '
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
   title: >-
@@ -14,7 +12,7 @@ mainpitch:
 description: >-
   Autode ja teiste sõidukite müük. Lai valik seotud teenuseid -  sõidukite
   tellimine ja transport Euroopast, autode komisjonimüük kodulehel ja Valga
-  autoplatsil.
+  autoplatsil. Lisainfo +372 503 0157
 intro:
   blurbs:
     - image: /img/grey-ford-focus-hatchback-1007410.jpg
