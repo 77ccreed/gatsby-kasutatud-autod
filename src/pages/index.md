@@ -14,20 +14,18 @@ mainpitch:
 description: >-
   Autode ja teiste sõidukite müük. Lai valik seotud teenuseid -  sõidukite
   tellimine ja transport Euroopast, autode komisjonimüük kodulehel ja Valga
-  autoplatsil. Huvi korral meie teenuste vastu võib sõnumi saata kontaktide
-  lehel või helistada.
+  autoplatsil.
 intro:
   blurbs:
     - image: /img/grey-ford-focus-hatchback-1007410.jpg
       text: >-
         Vajadusel aitame auto järelmaksu taotlemisel - meie partner on Inbank.
-        Tutvu tingimustega ja esita taotlus järelmaksu lehel. Lisainfot võib
-        küsida tulles meie müügiplatsile.
+        Tutvu tingimustega ja esita taotlus järelmaksu lehel. Lisainfo
+        müügiplatsil.
     - image: /img/asphalt-auto-car-327236.jpg
       text: >-
-        Kui soovid oma auto maha müüa võtame Teie sõiduki komisjonimüüki.
-        Komisjonitasu sisaldab müügikuulutust meie kodulehel ja müügiteenust
-        autoplatsil.
+        Võtame Teie sõiduki komisjonimüüki. Komisjonitasu sisaldab
+        müügikuulutust meie kodulehel ja müügiteenust autoplatsil.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
