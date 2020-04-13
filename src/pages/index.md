@@ -11,7 +11,7 @@ mainpitch:
     Võimalus osta auto järelmaksuga - tutvu tingimustega ja täida taotlus
     järelmaksu lehel
   description: >-
-    Kõik meie autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
+    Autod on läbinud põhjaliku tehnilise taustakontrolli ja müügieelse
     ülevaatuse.
 description: >-
   Autode ja teiste sõidukite müük. Lai valik seotud teenuseid -  sõidukite
