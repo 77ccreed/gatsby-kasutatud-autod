@@ -42,7 +42,7 @@ const Navbar = class extends React.Component {
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <p style={{
-                color: '#468189',
+                color: '#292F33',
                 fontSize: '1.2rem',
                 fontWeight: '600'
               }}>Valga Autoaed</p>
