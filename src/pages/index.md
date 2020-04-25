@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kasutatud autode müük
-image: /img/kasutatud-autod.jpg
+image: /img/kasutatud-autod-valgas-mustang.jpg
 heading: 'Kasutatud autode müük Valgas, aadressil Viljandi mnt. 27'
 subheading: Sõidukid kodulehel ja müügiplatsil Valgas
 mainpitch:
