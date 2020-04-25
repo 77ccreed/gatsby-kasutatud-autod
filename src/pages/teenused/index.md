@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
-title: Pakutavad teenused
-image: /img/kasutatud-autod.jpg
+title: Teenused
+image: /img/kasutatud-autod-valgas-mustang.jpg
 heading: Kasutatud autode ja teiste sõidukite müük
 description: >-
   Lisaks autodele müüme sõidukeid nagu paadid ja mootorrattad. Pakume ka
