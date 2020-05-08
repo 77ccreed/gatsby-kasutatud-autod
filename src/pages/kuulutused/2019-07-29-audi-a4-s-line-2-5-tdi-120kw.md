@@ -4,7 +4,7 @@ title: Audi A4 S- LINE 2.5 TDI 120kW
 date: 2019-07-29T09:00:46.705Z
 description: >-
   Universaalkerega 2003. aasta Audi A4. Autol on manuaal käigukast, esisillavedu
-  ja diiselmootor.
+  ja diiselmootor. Hind 2950 eurot.
 featuredpost: false
 featuredimage: /img/audi_a4_s-line_2.5_tdi_120kw_1.jpg
 tags:
@@ -35,21 +35,13 @@ Saksamaalt toodud punane sõiduauto Audi A4 asub Valga automüügiplatsil. Auto 
 
 ![Audi A4 S- LINE 2.5 TDI 120kW valisvaade tagant](/img/audi_a4_s-line_2.5_tdi_120kw_2.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade tagant")
 
-
-
 ![Audi A4 S- LINE 2.5 TDI 120kW välisvaade küljelt](/img/audi_a4_s-line_2.5_tdi_120kw_3.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade küljelt")
 
 ![Audi A4 S- LINE 2.5 TDI 120kW seestvaade](/img/audi_a4_s-line_2.5_tdi_120kw_5.jpg "Audi A4 S- LINE 2.5 TDI 120kW seestvaade")
 
-
-
 ![Audi A4 S- LINE 2.5 TDI 120kW veljed](/img/audi_a4_s-line_2.5_tdi_120kw_7.jpg "Audi A4 S- LINE 2.5 TDI 120kW veljed")
 
-
-
 ![Audi A4 S- LINE 2.5 TDI 120kW välisvaade eest](/img/audi_a4_s-line_2.5_tdi_120kw_4.jpg "Audi A4 S- LINE 2.5 TDI 120kW välisvaade eest")
-
-
 
 ![Audi A4 S- LINE 2.5 TDI 120kW seestvaade tagant ette](/img/audi_a4_s-line_2.5_tdi_120kw_6.jpg "Audi A4 S- LINE 2.5 TDI 120kW seestvaade tagant ette")
 
