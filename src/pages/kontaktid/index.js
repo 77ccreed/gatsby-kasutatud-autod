@@ -45,9 +45,6 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Kontaktid</h1>
-              <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSeBQV7MpfVycfktm-GZIOH-iwO3cUYyPPYqYDuIwK9euqlM9Q/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                title="Järelmaks">Järelmaksu taotlemiseks ava küsimustiku siin.</a>
-              <hr />
               <p>Kirja võib saata siinsamas või aadressil valgamoto@gmail.com</p>
               <p>Telefon +372 503 0157</p>
               <hr />
