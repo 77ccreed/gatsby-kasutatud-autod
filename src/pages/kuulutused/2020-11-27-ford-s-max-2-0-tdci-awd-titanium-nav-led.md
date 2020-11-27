@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Ford S-Max 2.0 TDCi AWD Titanium NAV LED
-date: 2020-11-08T07:26:30.807Z
+date: 2020-11-27T07:26:30.807Z
 description: >-
   Müüa 2015. aasta kaubik Ford S-Max. Hind 16 000€. Autol on diiselmootor,
   automaat käigukast ja nelikvedu. Auto asub Saksamaal, kohaletoimetamine
@@ -45,8 +45,6 @@ tags:
 ![Ford S-Max 2.0 TDCi AWD Titanium NAV LED arvuti](/img/ford_s-max_2.0_tdci_awd_titanium_6.jpg "Ford S-Max 2.0 TDCi AWD Titanium NAV LED arvuti")
 
 ![Ford S-Max 2.0 TDCi AWD Titanium NAV LED salong](/img/ford_s-max_2.0_tdci_awd_titanium_7.jpg "Ford S-Max 2.0 TDCi AWD Titanium NAV LED salong")
-
-
 
 ![Ford S-Max 2.0 TDCi AWD Titanium NAV LED pakiruum](/img/ford_s-max_2.0_tdci_awd_titanium_8.jpg "Ford S-Max 2.0 TDCi AWD Titanium NAV LED pakiruum")
 
