@@ -9,19 +9,20 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-plugin-react-leaflet',
-      options: {
-        linkStyles: true // (default: true) Enable/disable loading stylesheets via CDN
-      }
-    },
-    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-145059058-1",
       },
     },
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    {
+      resolve: "gatsby-plugin-sass",
+      options: {
+        sassOptions: {
+          indentedSyntax: true,
+        },
+      },
+    },
     'gatsby-plugin-robots-txt',
     'gatsby-plugin-sitemap',
     {

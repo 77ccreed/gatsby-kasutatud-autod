@@ -1,0 +1,154 @@
+diff --git a/node_modules/bulma/sass/components/level.sass b/node_modules/bulma/sass/components/level.sass
+index 608f291..ad47465 100644
+--- a/node_modules/bulma/sass/components/level.sass
++++ b/node_modules/bulma/sass/components/level.sass
+@@ -1,4 +1,4 @@
+-$level-item-spacing: ($block-spacing / 2) !default
++$level-item-spacing: ($block-spacing * 0.5) !default
+ 
+ .level
+   @extend %block
+diff --git a/node_modules/bulma/sass/grid/columns.sass b/node_modules/bulma/sass/grid/columns.sass
+index 34a8353..8463d3a 100644
+--- a/node_modules/bulma/sass/grid/columns.sass
++++ b/node_modules/bulma/sass/grid/columns.sass
+@@ -1,3 +1,5 @@
++@use "sass:math"
++
+ $column-gap: 0.75rem !default
+ 
+ .column
+@@ -59,9 +61,9 @@ $column-gap: 0.75rem !default
+   @for $i from 0 through 12
+     .columns.is-mobile > &.is-#{$i}
+       flex: none
+-      width: percentage($i / 12)
++      width: percentage(math.div($i, 12))
+     .columns.is-mobile > &.is-offset-#{$i}
+-      margin-left: percentage($i / 12)
++      margin-left: percentage(math.div($i, 12))
+   +mobile
+     &.is-narrow-mobile
+       flex: none
+@@ -116,9 +118,9 @@ $column-gap: 0.75rem !default
+     @for $i from 0 through 12
+       &.is-#{$i}-mobile
+         flex: none
+-        width: percentage($i / 12)
++        width: percentage(math.div($i, 12))
+       &.is-offset-#{$i}-mobile
+-        margin-left: percentage($i / 12)
++        margin-left: percentage(math.div($i, 12))
+   +tablet
+     &.is-narrow,
+     &.is-narrow-tablet
+@@ -194,10 +196,10 @@ $column-gap: 0.75rem !default
+       &.is-#{$i},
+       &.is-#{$i}-tablet
+         flex: none
+-        width: percentage($i / 12)
++        width: percentage(math.div($i, 12))
+       &.is-offset-#{$i},
+       &.is-offset-#{$i}-tablet
+-        margin-left: percentage($i / 12)
++        margin-left: percentage(math.div($i, 12))
+   +touch
+     &.is-narrow-touch
+       flex: none
+@@ -252,9 +254,9 @@ $column-gap: 0.75rem !default
+     @for $i from 0 through 12
+       &.is-#{$i}-touch
+         flex: none
+-        width: percentage($i / 12)
++        width: percentage(math.div($i, 12))
+       &.is-offset-#{$i}-touch
+-        margin-left: percentage($i / 12)
++        margin-left: percentage(math.div($i, 12))
+   +desktop
+     &.is-narrow-desktop
+       flex: none
+@@ -309,9 +311,9 @@ $column-gap: 0.75rem !default
+     @for $i from 0 through 12
+       &.is-#{$i}-desktop
+         flex: none
+-        width: percentage($i / 12)
++        width: percentage(math.div($i, 12))
+       &.is-offset-#{$i}-desktop
+-        margin-left: percentage($i / 12)
++        margin-left: percentage(math.div($i, 12))
+   +widescreen
+     &.is-narrow-widescreen
+       flex: none
+@@ -366,9 +368,9 @@ $column-gap: 0.75rem !default
+     @for $i from 0 through 12
+       &.is-#{$i}-widescreen
+         flex: none
+-        width: percentage($i / 12)
++        width: percentage(math.div($i, 12))
+       &.is-offset-#{$i}-widescreen
+-        margin-left: percentage($i / 12)
++        margin-left: percentage(math.div($i, 12))
+   +fullhd
+     &.is-narrow-fullhd
+       flex: none
+@@ -423,9 +425,9 @@ $column-gap: 0.75rem !default
+     @for $i from 0 through 12
+       &.is-#{$i}-fullhd
+         flex: none
+-        width: percentage($i / 12)
++        width: percentage(math.div($i, 12))
+       &.is-offset-#{$i}-fullhd
+-        margin-left: percentage($i / 12)
++        margin-left: percentage(math.div($i, 12))
+ 
+ .columns
+   margin-left: (-$column-gap)
+diff --git a/node_modules/bulma/sass/grid/tiles.sass b/node_modules/bulma/sass/grid/tiles.sass
+index 15648c2..13bf15e 100644
+--- a/node_modules/bulma/sass/grid/tiles.sass
++++ b/node_modules/bulma/sass/grid/tiles.sass
+@@ -1,3 +1,5 @@
++@use "sass:math"
++
+ $tile-spacing: 0.75rem !default
+ 
+ .tile
+@@ -31,4 +33,4 @@ $tile-spacing: 0.75rem !default
+     @for $i from 1 through 12
+       &.is-#{$i}
+         flex: none
+-        width: ($i / 12) * 100%
++        width: math.div($i, 12) * 100%
+diff --git a/node_modules/bulma/sass/utilities/functions.sass b/node_modules/bulma/sass/utilities/functions.sass
+index acd3e83..928d225 100644
+--- a/node_modules/bulma/sass/utilities/functions.sass
++++ b/node_modules/bulma/sass/utilities/functions.sass
+@@ -1,3 +1,5 @@
++@use "sass:math"
++
+ @function mergeColorMaps($bulma-colors, $custom-colors)
+   // we return at least bulma hardcoded colors
+   $merged-colors: $bulma-colors
+@@ -39,18 +41,18 @@
+       $value: $value * $number
+   @else if $exp < 0
+     @for $i from 1 through -$exp
+-      $value: $value / $number
++      $value: math.div($value, $number)
+   @return $value
+ 
+ @function colorLuminance($color)
+   $color-rgb: ('red': red($color),'green': green($color),'blue': blue($color))
+   @each $name, $value in $color-rgb
+     $adjusted: 0
+-    $value: $value / 255
++    $value: math.div($value, 255)
+     @if $value < 0.03928
+-      $value: $value / 12.92
++      $value: math.div($value, 12.92)
+     @else
+-      $value: ($value + .055) / 1.055
++      $value: math.div($value + .055, 1.055)
+       $value: powerNumber($value, 2)
+     $color-rgb: map-merge($color-rgb, ($name: $value))
+   @return (map-get($color-rgb, 'red') * .2126) + (map-get($color-rgb, 'green') * .7152) + (map-get($color-rgb, 'blue') * .0722)
